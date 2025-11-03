@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Provides custom versions of reports personalized for users",
+        "name": "Majid-Mustafa",
+        "pros": "\"The most helpful feature is the integrations. Integrating the tool with SAP S/4HANA Cloud is easy, facilitating implementation and deployment. The runtime analysis checks for real-time analytics to see if the software works properly. This is a powerful feature.\n\n\"",
+        "cons": "\"There might be some hurdles when integrating with SAP ECC, but integration with SAP S/4HANA Cloud is smooth.\n\n\""
+    },
+    {
+        "title": "Offers standard stable features but lacks  certain functionalities, such as payroll and comprehensive warehouse management",
+        "name": "Chakrapani  Mishra",
+        "pros": "\"The standard system is stable.\"",
+        "cons": "\"Scalability is difficult. \""
+    },
+    {
+        "title": "Easy to use, straightforward implementation, but additional functionality needed",
+        "name": "reviewer2139228",
+        "pros": "\"When comparing SAP Business ByDesign to much larger ERP solutions, such as SAP ECC 6.0 or SAP S/4HANA, SAP Business ByDesign is more user-friendly and easier to implement.\"",
+        "cons": "\"The Purchase to Pay process could benefit from further sophistication and additional functionality. It would be helpful for the user community to receive clearer information about the future roadmap of the business. Unfortunately, there were some confusing articles in the German press towards the end of last year about the future of SAP Business ByDesign. Therefore, more clarity is needed in the support function to address this.\""
+    },
+    {
+        "title": "Provides good customer management, customer invoicing, and reporting",
+        "name": "Chijindu Oziogu",
+        "pros": "\"The most valuable features of SAP Business ByDesign are customer invoicing and cost and revenue, from which I get the data for my project reports.\"",
+        "cons": "\"With SAP S/4HANA, you can design your release strategy and modify it to include as many people as possible, which is missing in SAP Business ByDesign.\""
+    },
+    {
+        "title": "A cloud ERP solution to end-to-end process capability but lacks custom developments",
+        "name": "ArunVarathan",
+        "pros": "\"I find the tool\u2019s every feature valuable.\"",
+        "cons": "\"I would like the tool\u2019s interface to be better. Currently, we use a client application to access the product. I want that to be replaced with a web version. I would like to improve the tool\u2019s internet availability. I also want the product\u2019s setup to be easier.\""
+    },
+    {
+        "title": "Helps with financial accounting, project management, sales and invoicing, and accounting inventory management",
+        "name": "reviewer2133219",
+        "pros": "\"When we were using it, we did see an immediate benefit, especially in the inventory on consignment issue. We were a biotech pre-revenue company and most of our manufacturing was outsourced. So being able to track inventory within the system without creating a financial impact was very key for us.\"",
+        "cons": "\"There is room for improvement in the reporting capability. To use it properly, you need intensive IT support. You cannot write your own reports. \""
+    },
+    {
+        "title": "Provides vital inventory transactions processing; enables cost effective inventory tracking",
+        "name": "John Herndon",
+        "pros": "\"The most valuable feature of SAP Business ByDesign is it has a streamlined design.\"",
+        "cons": "\"The payroll module of the solution could improve.\""
+    }
+]

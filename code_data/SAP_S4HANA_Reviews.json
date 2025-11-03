@@ -1,0 +1,710 @@
+[
+    {
+        "title": "Implementation simplifies ERP management with comprehensive data integration and visibility",
+        "name": "Deepak Madhavan",
+        "pros": "\"You don't have to worry too much about volumes of data, even if your transaction volumes go up. \"",
+        "cons": "\"SAP is seen as quite expensive even now. It doesn't work for smaller or medium optimizations. \""
+    },
+    {
+        "title": "Offers an indispensable Order-to-Cash feature along with easy integrations, but the analytics features need improvement",
+        "name": "Cirvesh-Daga",
+        "pros": "\"The Order-to-Cash feature is indispensable\"",
+        "cons": "\"The analytics part of SAP S/4HANA needs to be improved\""
+    },
+    {
+        "title": "Integrated cloud systems improve financial management and human resources processing",
+        "name": "Mehboob AalamMughal",
+        "pros": "\"I am really happy to use HANA since it is highly syndicated with public office systems. \"",
+        "cons": "\"The cost is quite expensive.\""
+    },
+    {
+        "title": "The solution is highly scalable, with solid performance and integration",
+        "name": "VARUN-JAIN",
+        "pros": "\"S/4HANA is so much faster today than it was before. High performance is one of the best features, but the backbone of S/4HANA is its integration capabilities. They've also shifted to a focus on user experience. \r\n\r\n\"",
+        "cons": "\"SAP support provides resolves all our problems, but the response time is slower than our customers expect. Maybe it's because they have such a large customer base and are always occupied, but that's one area all our customers mention.\""
+    },
+    {
+        "title": "Offers excellent performance and easy integrations but needs to improve data compression capabilities",
+        "name": "PremkishanChourasia",
+        "pros": "\"Provides multiple tools for easy integrations\"",
+        "cons": "\"SAP S/4HANA needs to bring a feature that allows a great quantity of data compression\""
+    },
+    {
+        "title": "Benefits from pre-built scenarios and standardization of processes with helpful support",
+        "name": "reviewer2317068",
+        "pros": "\"Many prebuilt scenarios are included.\"",
+        "cons": "\"SAP has packages in countries like Poland, Spain, and Italy for these regulations, such as e-invoicing. However, we are missing these standard packages here in Turkey. \""
+    },
+    {
+        "title": "Integrated application empowers comprehensive transaction analysis and business impact",
+        "name": "Girish Ogirala",
+        "pros": "\"SAP S/4HANA is an integrated application, which is its greatest strength.\"",
+        "cons": "\"The cost of their support services could be more affordable.\""
+    },
+    {
+        "title": "Costing and inventory control have improved, but adapting to new cloud platforms is challenging",
+        "name": "Sagar Godbole",
+        "pros": "\"It provides a cohesive user interface, even when building applications outside SAP with the OpenUI framework, offering a seamless customer experience.\"",
+        "cons": "\"With the public cloud, now everything is being pushed into BTP. This has created challenges, as it requires us to redo our coding and development.\""
+    },
+    {
+        "title": "Seamless integration with finance streamlines reports",
+        "name": "reviewer2090781",
+        "pros": "\"The most valuable feature is probably the full integration with the finance system.\"",
+        "cons": "\"The process for the auto administration of the system needs improvement.\""
+    },
+    {
+        "title": "Offers a high compliance-oriented system with easy integrations and real-time reports",
+        "name": "Hanif Shaikh",
+        "pros": "\"The solution provides real-time compliance and auditing\"",
+        "cons": "\"The licensing of SAP S/4HANA needs to be improved\""
+    },
+    {
+        "title": "Integration and quick deployment simplify business adaptation",
+        "name": "VivekavardhanNallagonda",
+        "pros": "\"The integration is quick to implement and very user-friendly. \"",
+        "cons": "\"SAP is good, however, SAP users should have the knowledge to tackle SAP effectively.\""
+    },
+    {
+        "title": "Revolutionizing enterprise resource management with seamless cloud-based integration",
+        "name": "reviewer1333659",
+        "pros": "\"The use of a memory-based database makes it more efficient. \"",
+        "cons": "\"The solution is very complex, and stability is based on maturity.\""
+    },
+    {
+        "title": "Provides quality inspection and delivery process within the ERP system",
+        "name": "AhmedHaridy",
+        "pros": "\"In SAP S/4HANA, an interesting feature is the quality inspection and delivery process within the ERP system. For instance, if there is a delivery for a project part that requires quality inspection and receives feedback from the customer, this can be recorded through the mobile application. The responsible person can visit the site, open the system using the mobile app, and add remarks and notes directly into the system without the need for paper or extensive communication. \"",
+        "cons": "\"SAP S/4HANA offers two deployment options: the private cloud and the public cloud. The private cloud is a comprehensive solution. While it does require numerous approvals, it is a highly reliable product. \""
+    },
+    {
+        "title": "Offers a user-friendly interface with COD accessibility and large database handling capacity",
+        "name": "SrinivasReddy2",
+        "pros": "\"Offers an excellent UI\"",
+        "cons": "\"It's an expensive solution\""
+    },
+    {
+        "title": "Easy to operate and understand and provides good reports with lot of good functionalities",
+        "name": "PradeepNair3",
+        "pros": "\"As a finance professional, I appreciate the user-friendly interface and time-saving features. \"",
+        "cons": "\"There are areas for improvement. SAP needs to consider both global and regional requirements. \""
+    },
+    {
+        "title": "Improves financial processes and gives users a systematic way to look at data",
+        "name": "Jayesh Bhandari",
+        "pros": "\"It is a stable solution. Stability-wise, I rate the solution a ten out of ten.\"",
+        "cons": "\"The tool's high cost is an area of concern where improvements are required.\""
+    },
+    {
+        "title": "A robust application with embedded analytics and an inbuilt native mobile app",
+        "name": "YS Gadaputi",
+        "pros": "\"Only SAP payroll products can handle data management in IT and HR, processing millions of payrolls monthly for big organizations. S/4HANA payroll can manage massive volumes of data, process payroll in minutes, and provide outcomes. Other applications cannot process more than 4000-5000, but SAP S/4HANA payroll has been proven for 30-40 years.\r\n\r\n\"",
+        "cons": "\"S/4HANA is like a ready-made suit, but it could be improved by adding more customization options, such as different colors and attractive themes in Fiori. From a functionality standpoint, there's always a workaround solution, and we've been working on SAP for the last 18 years.\r\n\r\n\""
+    },
+    {
+        "title": "Offers good ROI but needs to improve the performance area",
+        "name": "RaviAnupam",
+        "pros": "\"It is a scalable solution.\"",
+        "cons": "\"There is a need to improve the migration process.\""
+    },
+    {
+        "title": "Provides control over offered amounts in packages and time expectations for concluding calls",
+        "name": "Douglas Brito",
+        "pros": "\"SAP offers specific functions related to my data use case.\"",
+        "cons": "\"The disadvantages of this product include the lack of integration with platforms like LinkedIn. \""
+    },
+    {
+        "title": "Connects with all other systems, including non-SAP ones, and streamlines business processes by integrating various modules, especially finance",
+        "name": "Kumar-Saurav",
+        "pros": "\"The finance module is the best thing. It integrates well with other modules, which makes it the best ERP available.\"",
+        "cons": "\"There are certain limitations of the cloud version for customization. \""
+    },
+    {
+        "title": "Offers SAP Fiori apps with numerous dashboards and KPIs to assist in decision-making processes",
+        "name": "Shahzad Ashraf",
+        "pros": "\"Provides SAP Fiori apps with numerous dashboards and KPIs\"",
+        "cons": "\"The classic interface needs improvement\""
+    },
+    {
+        "title": "It helps save money since one can have everything under a single roof",
+        "name": "Tom\u00e1\u0161Zelina",
+        "pros": "\"It is exclusive to have SAP in your company. It is the best system in the world.\"",
+        "cons": "\"It is expensive to implement SAP in companies, making it an area of concern where improvements are required.\""
+    },
+    {
+        "title": "Access critical dashboards and reports in real-time, reduced implementation time and hardware-optimized for fast memory executions",
+        "name": "Chakrapani  Mishra",
+        "pros": "\"The speed of executing reports has increased significantly. We no longer need day-minus-one business processing.\"",
+        "cons": "\"There might be some restrictions in the public cloud.\""
+    },
+    {
+        "title": "An end-to-end solution that is very robust and comprehensive, with great technical support",
+        "name": "Haseen Perwez",
+        "pros": "\"It seamlessly integrates with all the SAP Business Suite products such as IoT, AI, Analytics and all other SaaS solutions. The product is very robust and comprehensive.\"",
+        "cons": "\"Small businesses that have a small user base find this solution too expensive. \""
+    },
+    {
+        "title": "Provides good integrations and used to manage inventory",
+        "name": "FranciscoSantos",
+        "pros": "\"The solution's most valuable feature is integration.\"",
+        "cons": "\"SAP S/4HANA is an expensive solution.\""
+    },
+    {
+        "title": "Has real-time data analytics features that significantly enhanced decision-making processes by providing instant insights",
+        "name": "Mo Sayed",
+        "pros": "\"The features that I find most helpful in my day-to-day operations with SAP S/4HANA are primarily related to data management. Real-time data analytics has significantly enhanced decision-making processes by providing instant insights into business processes and trends. The user experience with the SAP S/4HANA interface has also seen notable improvements, particularly in terms of a more friendly and personalized UI.\"",
+        "cons": "\"There is room for improvement in areas such as security features within SAP S/4HANA, which could further enhance the overall usability and effectiveness of the platform.\r\n\r\nTo make SAP S/4HANA better, there's a focus on enhancing responsiveness and reducing operational costs. This includes improving automation within the system to address strategic needs and accommodate users who primarily speak English, which is an ongoing effort.\""
+    },
+    {
+        "title": "Provides OData services and processing power to offer real-time data processing and analytics",
+        "name": "MajidMustafa",
+        "pros": "\"SAP S/4HANA delivers all essential possibilities to customers for various sections. In the current modern age, we use SAP for graphical outputs, reports, and smartphone accessibility. If users want to see financial outputs via diagrams, we use SAP by Design. For specific confirmations via mobile app or web app, we use few other applications. If users want only source forms and not hard copies, we use AR forms.\r\n\"",
+        "cons": "\"In my opinion, there's room for improvement in SAP S/4HANA based on customer requirements. The solution already includes advanced technologies like AI functionalities, but improvements can be made in areas like UI and pricing. For example, making the UI more user-friendly or reducing the cost could enhance the overall experience for clients and customers. The goal is to provide everything customers need with just one click, ensuring convenience and efficiency in accessing information and performing tasks.\""
+    },
+    {
+        "title": "Analytics have accelerated significantly with seamless integration and efficient operations",
+        "name": "SanjeevKumar14",
+        "pros": "\"The output that we get, maybe the analytics part, is even faster compared to what we used to see on the ECC system.\"",
+        "cons": "\"The initial setup was kind of complicated. \""
+    },
+    {
+        "title": "Provides the right data at the right time for decision-makers and good customer service and support",
+        "name": "Anandha Krishna",
+        "pros": "\"We can do a lot with S/4HANA, like HR, sales, distribution, production planning, quality management, transport management, and more.\"",
+        "cons": "\"In future releases, I would like to see more availability zones and VPCs so customers have more freedom to choose\""
+    },
+    {
+        "title": "Offers a user-friendly UI to users",
+        "name": "Muhammad  Faisal Rasheed",
+        "pros": "\"The user interface of SAP S/4HANA is user-friendly.\"",
+        "cons": "\"The product's high cost is an area of concern where improvements are required.\""
+    },
+    {
+        "title": "Stable with a straightforward setup and good documentation",
+        "name": "Shylaraj AK",
+        "pros": "\"The solution can scale well.\"",
+        "cons": "\"We would like to see more DevOps capabilities in the future.\""
+    },
+    {
+        "title": "Management benefits from real-time data insights while adapting to a robust interface",
+        "name": "Chijindu Oziogu",
+        "pros": "\"The ability to access real-time data analytics is crucial, as it supports events or calls that require immediate attention and decision-making.\"",
+        "cons": "\"The user interface is less friendly. \""
+    },
+    {
+        "title": "Comfort in terms of infrastructure handling, supports all kinds of integrations and  maintenance  is easy",
+        "name": "AbhishekKalra",
+        "pros": "\"The infrastructure resources are also effectively used. It is very optimized; used in a very optimized manner.\"",
+        "cons": "\"The interface could be improved.\""
+    },
+    {
+        "title": "Solution that can be used on all levels",
+        "name": "Guillaume-PIERRE",
+        "pros": "\"It is the most stable solution provided by SAP and can be used on all levels.\"",
+        "cons": "\"Their yearly licensing is expensive. Improvements are needed on the user experience level and digital work.\""
+    },
+    {
+        "title": "The overall complexity level needs to be simplified",
+        "name": "Srini-Dhanaraj",
+        "pros": "\"It is a stable solution.\"",
+        "cons": "\"The problem with the tool is that its complexity is very high.\""
+    },
+    {
+        "title": "An ERP system for financials, logistics, human resources, sales, distribution, and billing",
+        "name": "Rodolfo Berm\u00fadez Neubauer",
+        "pros": "\"SAP S/4HANA dominates around 70 percent of the ERP market in Chile, and I believe this isn't merely coincidental. I've always maintained that if someone believes SAP S/4HANA lacks a certain functionality, they haven't explored it thoroughly. However, there's a widespread lack of understanding regarding its full potential and how to configure it.\r\n\r\n\"",
+        "cons": "\"I think the user interface still needs improvement. While efforts are being made to enhance and make it more user-friendly, there are still shortcomings. Fiori is a great step forward, but work must be done. So, I believe SAP S/4HANA should focus more on improving GUI access. We also had a difficult time migrating the fixed assets. \r\n\r\n\""
+    },
+    {
+        "title": "Provides real-time analytics and decision-making by leveraging embedded analytics",
+        "name": "AshishMittal",
+        "pros": "\"SAP S/4HANA has been an excellent integrated solution for my clients, technically much easier to manage than the ECC solution. The embedded AI layer helps adopt intelligent AI directly within business scenarios, which has been very beneficial. These features enhance operations and efficiency for my clients.\"",
+        "cons": "\"Extensions to SAP S/4HANA have room for improvement, especially in integration with low-code/no-code platforms. Creating these extensions through Fiori transactions is more tedious than customers would like. Although the SAP build process has become more linear, further improvements could provide a huge benefit.\""
+    },
+    {
+        "title": "Removes gaps,  helps with business aspects and improves material planning",
+        "name": "VINCENTWU",
+        "pros": "\"It's helped with business aspects and improved material planning and RMA processes.\"",
+        "cons": "\"During parallel preparation of go-live processes, SAP B1 and S4H transactional data alignment can be difficult to track.\""
+    },
+    {
+        "title": "Provides good stability and faster accessibility for large data sets",
+        "name": "RohitKumar15",
+        "pros": "\"SAP S/4HANA is the preferred database because of its scalability, faster accessibility, compatibility, and other well-suited features for large data sets.\"",
+        "cons": "\"A virtual machine could exist to make everything available on a single deployment. \""
+    },
+    {
+        "title": "Robust, Scalable and Flexible  ERP for Large Enterprises",
+        "name": "Juzar Badami",
+        "pros": "\"The scalability has been good.\"",
+        "cons": "\"SAP S4HANA could improve by having a more seamless easier integration, faster integration. The overall implementation timelines should be reduced.\""
+    },
+    {
+        "title": "Its analytics capabilities are valuable as they enhance data analysis and insights",
+        "name": "JobiJ",
+        "pros": "\"Its analytics capabilities are valuable as they enhance data analysis and insights.\"",
+        "cons": "\"It could be improved by focusing on user-related challenges, as end users might face certain difficulties.\""
+    },
+    {
+        "title": "An analytics platform used to enhance data analysis and optimization processes for businesses",
+        "name": "Samuel Kowontan",
+        "pros": "\"The ability to optimize performance by allowing both data transactions and analytics on a single platform is particularly valuable. \"",
+        "cons": "\"The platform could improve by simplifying the analytics processes, which currently require significant preparatory work outside the platform. \""
+    },
+    {
+        "title": "Simple to use functions, intuitive interface, and efficient database",
+        "name": "SanjeevKumar12",
+        "pros": "\"I have been using SAP for more than 13 years and the new SAP S4HANA was not only a simple upgrade, they have made a lot of improvements. They have simplified a lot of the functions, the all-new interface gives users a better experience. The database itself is quite efficient in nature and it provides effective data queries. It is a good upgrade from the previous version of SAP R/3.\"",
+        "cons": "\"It is simple to implement SAP S4HANA. If you are already in this type of environment, then the transition is not very complex. However, if you do not then it can be difficult.\""
+    },
+    {
+        "title": "Has industry-specialized modules like retail, hospitality, and manufacturing",
+        "name": "T K G NAIR",
+        "pros": "\"The core accounting model is robust, so we don't have any issues with it. It has industry-specialized modules like retail, hospitality, and manufacturing. Many industrial-specific modules are very helpful. It's a very robust, reliable, and simple-to-use product. In my experience, it's straightforward.\r\n\r\n\"",
+        "cons": "\"I would like to see improvements in the graphical user interface and core modules in SAP S/4HANA. Even after 20 years, there haven't been developments in these areas. The purchase order, sales order, and core modules like CRM have remained unchanged. The financial data and modules have also stayed the same. Fiori is available but hasn't brought many changes to the core modules.\r\n\r\n\""
+    },
+    {
+        "title": "Intuitive platform with an interactive interface, reliable, and fairly priced",
+        "name": "Puneet",
+        "pros": "\"The most valuable feature is the inbuilt standards included in SAP that customers can adopt easily. Also offers to customize it based on the specific requirements.\"",
+        "cons": "\"I would like to see the AI included to help from a data standpoint.\""
+    },
+    {
+        "title": "Improved efficiency with strategic decision support and ongoing migration challenges",
+        "name": "reviewer1575774",
+        "pros": "\"I find the easy transformation and the good app to be very valuable. \"",
+        "cons": "\"Scalability is somewhat of an issue.\""
+    },
+    {
+        "title": "Stable solution but  lacks a native cloud solution",
+        "name": "Richard Spithoven",
+        "pros": "\"It is a very scalable solution. We have enterprise-level businesses using this solution. \"",
+        "cons": "\"The customer service and support are average. There is room for improvement in response time. \""
+    },
+    {
+        "title": "Helpful technical support, plenty of features, and secure",
+        "name": "NAWAL SAXENA",
+        "pros": "\"The solution is flexible, has a lot of functionality, and has the ability to deliver more security than other comparable solutions.\"",
+        "cons": "\"SAP S4HANA is not suitable for all-size companies. If you have a small company there are better fit solutions for your needs.\""
+    },
+    {
+        "title": "Provides excellent features and easily integrates with other systems",
+        "name": "NagendraC",
+        "pros": "\"It is easy to integrate the solution with other systems.\"",
+        "cons": "\"The initial setup was difficult.\""
+    },
+    {
+        "title": "Helpful to handle a lot of analytics and reporting areas of businesses but needs improvement in the pricing aspect",
+        "name": "reviewer2342484",
+        "pros": "\"I have no issues with the stability of the product, as everything seems to be fine.\"",
+        "cons": "\"I think that the cost is a big area of concern, considering what users get out of the tool.\""
+    },
+    {
+        "title": "Very easy to integrate and the new UI is user friendly",
+        "name": "Feghouli Sofiabe",
+        "pros": "\"The solution's new UI called Fiori is user friendly.\"",
+        "cons": "\"The solution is complex technically because both an old and a new path exist.\""
+    },
+    {
+        "title": "Helps build features that help companies integrate their end-to-end departments",
+        "name": "Nikhil_Gupta",
+        "pros": "\"C4C is a good application of SAP S/4HANA, and it helps many companies.\"",
+        "cons": "\"The solution\u2019s pricing could be reduced and made more cost effective.\""
+    },
+    {
+        "title": "An easy-to-use enterprise solution with features such as high availability and connectivity",
+        "name": "VIKASGUPTA",
+        "pros": "\"The tool's most valuable features are ease of use, high availability, and connectivity. \r\n\r\n\"",
+        "cons": "\"The product should improve its cost. \r\n\r\n\""
+    },
+    {
+        "title": "Great user experience, easy to use, and well centralized setup",
+        "name": "Zama Ntsele",
+        "pros": "\"The user experience is quite attractive, and maybe the efficiency around the consolidation part as well. \"",
+        "cons": "\"More integration is necessary.\""
+    },
+    {
+        "title": "Streamline financial operations and supply chain management",
+        "name": "R Parthipan",
+        "pros": "\"The processing time has been reduced, and the screens have become more intuitive, leading to a faster user experience.\"",
+        "cons": "\"SAP S/4HANA is a robust front-end solution compared to other web technologies available. However, screen design in SAP EFI might not be as extensive.\""
+    },
+    {
+        "title": "Scalable for our use case and offers modules lie FI, CO and more",
+        "name": "NickFong",
+        "pros": "\"It is scalable enough. We have over a hundred end users using it.\"",
+        "cons": "\" When we want to raise a ticket on the SAP portal, the process takes a longer time, and there are many selections that confuse the user. \""
+    },
+    {
+        "title": "Highly scalable, stable, and plenty of features",
+        "name": "Ali Mirnia",
+        "pros": "\"The functionality of SAP S4HANA is very good when comparing it to others, such as Oracle, Microsoft, and other ERP solutions.\"",
+        "cons": "\"Thi solution can improve the Bill of Materials (BOM) and production planning.\""
+    },
+    {
+        "title": "A powerful solution with Fiori interface",
+        "name": "AndresHarry",
+        "pros": "\"We use the solution for a retail customer. As an administrator, my activities involve system installation, troubleshooting, and performance management.\r\n\r\n\"",
+        "cons": "\"The tool could improve development, particularly during upgrades or conversions from ERP systems to the solution. Adapting the code to the new standards can be challenging, especially when customers try to keep their old ERP developments.\r\n\r\n\""
+    },
+    {
+        "title": "Helps us provide customers with better visibility, forecasting, and smart data for decision-making, but the pricing should be more flexible",
+        "name": "Madhava Pemmaraju",
+        "pros": "\"We leverage the finance and add-on modules of SAP S/4HANA, including Alibaba integration, CRM integration, and production planning. These features are highly configurable and provide excellent visibility into our systems. While I appreciate the introduction of in-memory computing as a feature, I haven't had the opportunity to delve deep into this feature. \"",
+        "cons": "\"It would be beneficial if the pricing structure could be made more flexible and adaptable to suit the needs of different organizations.Besides this the scalability also needs consideration improvement.\r\n\r\nI believe support could be improved by providing more specific and detailed answers rather than generic responses.\""
+    },
+    {
+        "title": "ERP business solution that offers built-in comprehensive functionality for all major departments",
+        "name": "Sahil Doshi",
+        "pros": "\"S/4HANA offers a lot of additional capability with respect to performance due to its in-built architecture for many functions including finance, production, quality, manufacturing, inventory or sales distribution and logistics.\"",
+        "cons": "\"The integration could be made a little simpler in terms of design and implementation.\""
+    },
+    {
+        "title": "Provides good performance, processes, and integration with modern technologies",
+        "name": "DeepakDalvi",
+        "pros": "\"The solution's most valuable features are performance and processes.\"",
+        "cons": "\"The solution\u2019s pricing could be reduced.\""
+    },
+    {
+        "title": "Good in-memory processing capability, good support, and stable",
+        "name": "reviewer1773648",
+        "pros": "\"The in-memory processing capability is most valuable.\"",
+        "cons": "\"There should be an easier way to migrate customers from all versions to SAP S/4HANA.\""
+    },
+    {
+        "title": "The latest version simplifies planning and is easily enabled with good customer support",
+        "name": "ShrikanthMaddirela",
+        "pros": "\"The latest version from SAP is highly valued.\"",
+        "cons": "\"There could be a bit more competitiveness in their licensing and pricing.\""
+    },
+    {
+        "title": "Offers good integration and a database that functions at a lightning speed",
+        "name": "Shibu  Ms",
+        "pros": "\"It is a full-fledged, stable solution.\"",
+        "cons": "\"The tool needs to improve its interface and functionalities.\""
+    },
+    {
+        "title": "Offers good stability and can be used in various sectors, including retail and manufacturing",
+        "name": "Prashan Thilakawardena",
+        "pros": "\"The initial setup is not complex; it's more at a medium level. Not too easy, but with the right knowledge, you can configure it.\r\n\"",
+        "cons": "\"The user interface should be much more convenient and user-friendly. \r\n\""
+    },
+    {
+        "title": "Good for vertical customizations but too costly and complex for other use cases",
+        "name": "Tim",
+        "pros": "\"The finance solution and procurement functionalities are good. \"",
+        "cons": "\"Items that impact the TCO should be improved because the solution is very complex to integrate and keep running. \""
+    },
+    {
+        "title": "Is a stable solution",
+        "name": "Sergio Ortiz Vega",
+        "pros": "\"At present, it seems very stable because it is in the cloud.\"",
+        "cons": "\"The migration to SAP S/4HANA is hard.\""
+    },
+    {
+        "title": "Detailed processes that capture our policies and enable us to implement our policies in SAP",
+        "name": "Alaba Ayotunde O. OLUWAYIMIKA",
+        "pros": "\"The most valuable feature is the detail in all of the processes. The solution captures our policies and enables us to implement our policies in SAP. There are different models that address our needs. \"",
+        "cons": "\"The Capex and Opex could be improved.\""
+    },
+    {
+        "title": "Easy-to-use and user-friendly solution",
+        "name": "Theo Mit",
+        "pros": "\"SAP S/4HANA is a very easy-to-use and user-friendly solution.\"",
+        "cons": "\"The solution\u2019s stability could be improved.\""
+    },
+    {
+        "title": "With an easy initial setup in place, the solution offers scalability and stability together",
+        "name": "Steven Leung",
+        "pros": "\"Stability-wise, I rate the solution a ten out of ten...Scalability-wise, I rate the solution a ten out of ten. \"",
+        "cons": "\"There are some problems with the support provided for the solution, so it is not quite easy. It takes some time for them to offer us support.\""
+    },
+    {
+        "title": "It's relatively stable, but it still needs time to mature",
+        "name": "ArifKundi",
+        "pros": "\"S4HANA is relatively stable.\"",
+        "cons": "\"We found that the implementing partners themselves are struggling with S4HANA's features. It's not an exact translation of the older ECC, so SAP has taken a new route to do things with S4HANA. Maybe it's a good product, but the implementing partners also like to have an in-depth understanding of the full feature set the product offers.\""
+    },
+    {
+        "title": "Necessitated us tailoring our processes which has increased efficiency",
+        "name": "reviewer1377633",
+        "pros": "\"Responsive, comprehensive and optimized solution. \"",
+        "cons": "\"Lacking in some customizations. \""
+    },
+    {
+        "title": "A highly scalable solution with a variety of modules and reports",
+        "name": "VijaySingh",
+        "pros": "\"We have access to all types of reports in a single solution.\"",
+        "cons": "\"The solution is quite expensive.\""
+    },
+    {
+        "title": "Usable in many industries, scalable, and good support",
+        "name": "Anshuman Bansal",
+        "pros": "\"SAP S4HANA provides a solution towards a green industry. They keep making a different version of the solution to meet the needs of different industries, such as automotive and utilities.\"",
+        "cons": "\"The solution could have a better user experience. However, they are working a lot on the user experience and they have come up with various applications, such as mobile applications. This was lacking over the last two years.\""
+    },
+    {
+        "title": "Smooth and seamless product with flexible licensing models",
+        "name": "reviewer1717746",
+        "pros": "\"It is more or less a very, very smooth and seamless product. Day by day they are increasing their technology features and they are keen to resolve the issues. India has a complex business scenario and SAP is thinking about that and resolving the issues day by day.\"",
+        "cons": "\"If I can highlight one point that could be improved, when we talk about other ERPs, like Oracle, nowadays these ERPs provide free integration with other ERPs. For example, there is an API for banks integrated into every tool and every product form requires that bank integration in order to give real time data into the ERP. But SAP is charging a lot for that particular bank integration scenario and I think it should be free because other ERPs are providing this feature built in to the ERP. People always ask us about the integration and how much it will cost to go with that solution, so people are thinking about this.\""
+    },
+    {
+        "title": "Stable, scalable, knowledgeable customer support",
+        "name": "DiaaHussein",
+        "pros": "\"SAP S4HANA version 1909 is stable. We have not gone live with 2020 yet.\"",
+        "cons": "\"The solution could improve by making customization easier. The on-premise version is a lot more flexible.\""
+    },
+    {
+        "title": "Highly scalable and used for business uses like HR operations",
+        "name": "MahmoudHossni",
+        "pros": "\"Our customers use the solution mainly for their business uses like HR operations.\"",
+        "cons": "\"I think anything related to manufacturing public clouds could be improved.\""
+    },
+    {
+        "title": "Scalable product with valuable integration features",
+        "name": "reviewer1415853",
+        "pros": "\"The scalability of SAP S/4HANA is highly impressive, making it suitable for companies of all sizes.\"",
+        "cons": "\"The product could be improved in several key areas, particularly in API granularity and ease of configuration.\""
+    },
+    {
+        "title": "A stable and scalable ERP business suite with a useful procure-to-pay feature",
+        "name": "Adeyemi Shodeko",
+        "pros": "\"Because I'm a procure-to-pay consultant, I mostly look at that angle, and I have a bit of experience with sales and distribution. I also like the integration between S/4HANA and other ERPs because S/4HANA is a suite. For example, the integration between S/4HANA and EWM Transportation Management, and Ariba.\"",
+        "cons": "\"The procure-to-pay solution in the Contract Management angle could be better. If you look at it on Ariba, the Contract Management Life Cycle for Ariba is more robust. You can create documentation, SLAs, and NDAs. Apart from the procurement aspect of the contract, you have the legal side, but Ariba cannot do that.\r\n\r\nFrom what I've seen, the features of the procure-to-pay model in S/4HANA and their Contract Life Cycle Management side primarily focus on the procurement side. I believe it would be good if this solution could handle a part of the legal side.\r\n\r\nThey will incorporate Extended Warehouse Management and Transportation Management into the S/4HANA cloud. Most big companies that use a solution like S/4HANA have a legal department within the organization. Suppose they can incorporate that to be in S/4HANA suites; I think it'll be good. It will be just like what we have with Transportation Management and Extended Warehouse Management.\r\n\r\nThe user interface could be better. They have too much information on the interface, and our customers still keep complaining that it looks complex. Even though many things have changed, they still complain that the interface or the screen they see is a bit complex. It's only when they see the Fiori interface that their mind becomes a bit calm.\""
+    },
+    {
+        "title": "Ability for remote access is a key feature in streamlining our processes",
+        "name": "Rahul Lamba",
+        "pros": "\"The Fiori design is a valuable feature. \"",
+        "cons": "\"Documentation could be improved. \""
+    },
+    {
+        "title": "Good support and analytics capabilities, and it is definitely scalable",
+        "name": "Shankar Agarwal",
+        "pros": "\"From a technology standpoint, the theory and analytics are fascinating.\"",
+        "cons": "\"Every year, when a new version is released, it comes with a very thick booklet of 300 or 400 pages and it is a little difficult to comprehend.\""
+    },
+    {
+        "title": "Provides many functionalities and a high level of detail",
+        "name": "Usama-Abuelatta",
+        "pros": "\"SAP has many functionalities and a high level of detail so that you can manage all processes in detail without any issues.\"",
+        "cons": "\"It would be very good to merge the SuccessFactors or other solutions with S/4HANA to make it one suite. They could have a single dashboard for all types of products. I have many embedded solutions. \""
+    },
+    {
+        "title": "Offers business enterprise planning and enterprise resource management",
+        "name": "Shubham Desale",
+        "pros": "\"One of the things I like about it is its well-integrated and secure nature.\r\n\"",
+        "cons": "\"So, there is room for improvement in pricing. HANA is not a simple product; it's quite complex by design.\r\n\""
+    },
+    {
+        "title": "A very stable and experienced solution in all business fields",
+        "name": "Hisham Ismail",
+        "pros": "\"S4HANA is very scalable - we use it across seven or eight factories, and everything is running fine.\"",
+        "cons": "\"The product's use of resources could be improved, as it is quite intensive at the moment.\""
+    },
+    {
+        "title": "Scales well, reliable, and accurate",
+        "name": "Shilin Yan",
+        "pros": "\"The most valuable feature of SAP S/4HANA is the innovational process. We are able to receive more efficiency or accuracy than previous versions.\"",
+        "cons": "\"SAP S/4HANA could improve by making the interface easier to use.\""
+    },
+    {
+        "title": "Has great scalability and allows us to get all our processes flowing together",
+        "name": "reviewer1601094",
+        "pros": "\"We're able to get all our processes flowing together. We're able to make all of our business processes talk to each other.\"",
+        "cons": "\"It should have more support. Documentation and support for mobile apps can be improved.\""
+    },
+    {
+        "title": "Complicated and robust, this suite delivers a total solution with rigorous and exhaustive planning",
+        "name": "AmitShah3",
+        "pros": "\"It is a very powerful, highly customizable tool.\"",
+        "cons": "\"It requires a lot of planning to implement the product correctly.\""
+    },
+    {
+        "title": "Allows us to  easily access data from a single terminal, and the performance is good",
+        "name": "MOORTHY ESAKKY",
+        "pros": "\"S/4HANA falls under a single terminal. We can easily access the data, and the performance is good.\r\n\"",
+        "cons": "\"The scalability could be better.\r\n\""
+    },
+    {
+        "title": "A next-generation in-memory database solution with a useful feature called Fiori",
+        "name": "Daniel Paiva",
+        "pros": "\"I like the user experience and usability of SAP Fiori, which is one of the main features that we are using.\"",
+        "cons": "\"The initial setup could be better. They can make the process a little easier. The functions that we require will be available in the next release. We specifically need a new model, and I think we have some versions to implement. I already read on the SAP website that some functionalities we are waiting for are available in this new version.\""
+    },
+    {
+        "title": "Integrates with other tools, is better than previous SAP iterations, and is reliable",
+        "name": "reviewer1487229",
+        "pros": "\"It's reliable and the performance is good. \"",
+        "cons": "\"Starting out on the solution can be a bit complex and difficult. \""
+    },
+    {
+        "title": "Reliable, but scalability expensive",
+        "name": "reviewer1800138",
+        "pros": "\"SAP S4HANA is a stable solution.\"",
+        "cons": "\"In an upcoming release of SAP S4HANA, chain management should be easier.\""
+    },
+    {
+        "title": "Easy integration with other tools",
+        "name": "Jayaprakash Kuppusamy",
+        "pros": "\"The scalability is excellent, especially on cloud deployment models.\"",
+        "cons": "\"Technical support has been declining. They aren't as responsive as they used to be.\""
+    },
+    {
+        "title": "Scalable and stable with good cost optimization shipped on cloud solutions",
+        "name": "Carlos Guzman",
+        "pros": "\"SAP S/4HANA is a comprehensive ERP solution that provides better performance.\"",
+        "cons": "\"Introducing better functions to our customers with the Fiori app is not easy for consultants.\""
+    },
+    {
+        "title": "A comprehensive ERP service that provides good performance",
+        "name": "LIN WEN",
+        "pros": "\"From a technological point of view, the in-memory database is one of the key highlights.\"",
+        "cons": "\"If S4HANA has more AI and machine learning, it will be better and easier for reporting and dashboarding.\""
+    },
+    {
+        "title": "The in-memory database is its key feature",
+        "name": "reviewer1397796",
+        "pros": "\"The key modules that I find most valuable are material management (MM), financial accounting and controlling (FICO), and human resources (HR).\"",
+        "cons": "\"The two things that need to be improved are price and customization.\""
+    },
+    {
+        "title": "Feature-rich and offers different deployment options, but the customization should be improved",
+        "name": "reviewer1403493",
+        "pros": "\"I have found SAP S4HANA to be scalable.\"",
+        "cons": "\"The difficulty level of the initial setup depends on the person's skills. If you know the basic knowledge of the database, then it will be easy, otherwise, it will be very difficult.\""
+    },
+    {
+        "title": "Highly stable and scalable",
+        "name": "SheerazA786",
+        "pros": "\"I find everything I need in S4/HANA.\"",
+        "cons": "\"This product would be improved by adding more reports.\""
+    },
+    {
+        "title": "Gives you everything you need with no workarounds",
+        "name": "Eman El Bakry",
+        "pros": "\"One of the most valuable features, which we used the most, was the FI module, for finance. It involved controlling, account receivables, account payables, and complete financial steering. \"",
+        "cons": "\"S/4HANA could be improved with better integration. At the moment, a main issue I see is that there's so much growth in the functionality, complementary modules, and cloud solutions which were acquired by SAP and which extend the functionality of the SAP ERP suite. It looks to me that they tend to acquire more and more functionality from acquisitions, but they don't invest enough effort into making them integrated with S/4HANA or ERP. I would say that the functionality is great, but integration is something which still needs more attention. Instead of focusing on acquisitions, they should invest, integrate, and better the existing portfolio of products in SAP. It would help us, as implementors, to have a more complex or compact solution. \""
+    },
+    {
+        "title": "It's stable and has all the modules and functionalities you may need",
+        "name": "reviewer1676889",
+        "pros": "\"I find the Production Planning Cockpit (PPC) and Material Requirements Planning (MRP) most valuable modules.\"",
+        "cons": "\"In a feature release, they could improve by adding budgetary features.\""
+    },
+    {
+        "title": "Useful modules, priced well, and stable",
+        "name": "Dinesh Kumar",
+        "pros": "\"S4HANA is a completely integrated solution. It's an end-to-end ERP system with strong manufacturing and financial integration, which is not common among ERPs. And it's a solution that's driven by industry best practices.\r\n\r\n\"",
+        "cons": "\"Maybe its user interface and reporting can be improved across the board, but it is manageable.\r\n\r\n\""
+    },
+    {
+        "title": "Strong financial and manufacturing integration",
+        "name": "reviewer1687422",
+        "pros": "\"The performance of the solution is excellent.\"",
+        "cons": "\"The cost of the solution is quite high. It needs to be adjusted.\""
+    },
+    {
+        "title": "Offers good performance, has a user-friendly interface and is great for finance",
+        "name": "Steven Leung",
+        "pros": "\"A robust product with integration between all modules.\"",
+        "cons": "\"Lacks ability to easily mass upload which has become a necessity for industry.\""
+    },
+    {
+        "title": "It's an all-in-one with smooth integration of all modules",
+        "name": "Kumar Saurav",
+        "pros": "\"A user-friendly UI with good documentation. \"",
+        "cons": "\"This is a costly solution. \""
+    },
+    {
+        "title": "This is an extremely powerful and trouble-free product",
+        "name": "Virendra Rai",
+        "pros": "\"It is really fast. It is also very stable.\"",
+        "cons": "\"I'm not a big fan of SAP S/4HANA because it needs a lot of hardware. It is really fast, but it needs a lot of hardware. The hardware for S/4HANA is too expensive.\""
+    },
+    {
+        "title": "Fast and stable, but is expensive and needs a lot of hardware",
+        "name": "Ahmad Kamal",
+        "pros": "\"The processes have been reduced from almost 10 steps to four or five steps. It's really been simplified.\"",
+        "cons": "\"The theory-side of the solution needs to be improved.\""
+    },
+    {
+        "title": "Easy-to-use, but could benefit from some theory-based adjustments",
+        "name": "reviewer1391076",
+        "pros": "\"SAP S4HANA has good performance and has allowed us to combine our systems.\"",
+        "cons": "\"The solution could be more user-friendly for regular users and developers.\""
+    },
+    {
+        "title": "High performance, stable, and helpful customer support",
+        "name": "reviewer1285524",
+        "pros": "\"The most useful features of SAP S4HANA are the consolidation reports. The BI is very strong and the manufacturing and finance sections we like a lot.\"",
+        "cons": "\"The install can be difficult. There's something called secondary sales solutions that is not there in SAP. We need to have third-party tools to integrate to do the automatization. The two parts are missing on the secondary sales solution and automation.\""
+    },
+    {
+        "title": "Useful consolidation reports, reliable, and highly scalable",
+        "name": "AzimSyed",
+        "pros": "\"One of the most valuable features is the in-memory database.\"",
+        "cons": "\"I have found the solution to be stable but it could improve.\""
+    },
+    {
+        "title": "Beneficial in-memory database processing and scalable",
+        "name": "reviewer1646739",
+        "pros": "\"I have found the most valuable features are the interface, which is very good for all users, and the database performance is good.\"",
+        "cons": "\"In an upcoming release, it would be beneficial to have more practical intelligence in the system, such as protective maintenance, or artificial intelligence.\""
+    },
+    {
+        "title": "Interface suits all users, high database performance, and reliable",
+        "name": "reviewer1589064",
+        "pros": "\"In terms of its most valuable feature, I would say the finance module. \"",
+        "cons": "\"The common issues being raised right now by the end users are mostly related to the usability.\""
+    },
+    {
+        "title": "Robust but is still not 100% stable or scalable",
+        "name": "reviewer893631",
+        "pros": "\"I have found the user interface very modern and it has simplified many user jobs, such as the embedded logistics. They have introduced central finance which has been a benefit.\"",
+        "cons": "\"This solution works with the configuration, if the prerequisites are very clear and can be configured it works perfectly. If you need to simulate something, as a predictive tool this kind of simulation is not very accurate and it has limitations. This is something that could improve.\""
+    },
+    {
+        "title": "Modern user interface, simplified operations, but complex installation",
+        "name": "reviewer1579086",
+        "pros": "\"The solution makes its use and the management of our infrastructure easy. \"",
+        "cons": "\"While the solution contemplates a competitively priced model, its pricing could be cheaper. \""
+    },
+    {
+        "title": "A stable and scalable solution which boasts easy use and infrastructure management",
+        "name": "reviewer782994",
+        "pros": "\"The most valuable feature is the perfect end-to-end integration.\"",
+        "cons": "\"An area for improvement would be integration with different kinds of legacies. In the next release, I would like the product to be prepared for blockchain technology and the best way to communicate with social networking.\""
+    },
+    {
+        "title": "Great value solution with perfect end-to-end integration",
+        "name": "reviewer1750017",
+        "pros": "\"SAP S4HANA is a robust solution.\"",
+        "cons": "\"We are always looking for a better user experience. We would like to see more consolidation in SAP S4HANA because of all the financial compliance and regulatory changes.\""
+    },
+    {
+        "title": "Simple implementation, good support, and robust design",
+        "name": "reviewer1106688",
+        "pros": "\"The most valuable feature is that HANA loads from memory, which means it loads very quickly.\"",
+        "cons": "\"The resource usage could be improved - it's memory-hungry, so mid-range servers struggle to run it.\""
+    },
+    {
+        "title": "Reduced our costs and loads very quickly",
+        "name": "reviewer1751868",
+        "pros": "\"I have found the most valuable feature to be the SAP Fiori application.\"",
+        "cons": "\"There should be a place where I can get the best available applications in one place. Currently, Fiori applications are available in different tiles on the dashboards. If anyone wants to check the financial, sales, and inventory reporting in one place, it is not possible in Fiori. We would have to develop a custom Fiori application. If that feature can be incorporated into the standard Fiori, it will be helpful for us.\""
+    },
+    {
+        "title": "Useful Fiori applications, excellent technical support, and highly scalable",
+        "name": "reviewer1680489",
+        "pros": "\"I can verify and provide the overall financial aid report and also the management report.\"",
+        "cons": "\"You will not see convenient user experiences with SAP S4HANA's website or application.\""
+    },
+    {
+        "title": "Provides a better view of business operations but needs to improve user experience",
+        "name": "reviewer1570197",
+        "pros": "\"This tool helps us to manage business in a faster and smarter way. \"",
+        "cons": "\"Planned Order List needs a change of screen.\""
+    }
+]

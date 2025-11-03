@@ -1,0 +1,134 @@
+[
+    {
+        "title": "High stability, reasonably priced, and important for digital transformations",
+        "name": "Suresh Tanneeru",
+        "pros": "\"The BTP module is important for digital transformations. \"",
+        "cons": "\"Customers need to be better educated about using the solution's cloud for digital transformation.\""
+    },
+    {
+        "title": "SAP manages everything for us - the infrastructure, everything and we don't need a lot of manpower to maintain it ourselves",
+        "name": "Hara Prasad",
+        "pros": "\"It has significantly streamlined our operations. \"",
+        "cons": "\"The main thing is that SAP needs to give better response times for support tickets.\""
+    },
+    {
+        "title": "Provides valuable features tailored to the nature of the business but lack of stability and visibility into the system's status",
+        "name": "Taiwo Babalola",
+        "pros": "\"We have a wide range of use cases for SAP HANA Enterprise Cloud. These include production planning, materials management, sales management, treasury, finance, appliance maintenance, real estate, and warehouse management. \"",
+        "cons": "\"I would rate the stability a four out of ten. It's an area that could use improvement\""
+    },
+    {
+        "title": "It performs well and has advanced features, but it's not competitive in terms of price and support",
+        "name": "Dhiraj Jankar",
+        "pros": "\"Traditionally, SAP worked with Oracle databases, but SAP is getting rid of the other databases and promoting its own. SAP will stop support for other databases around 2026, so everyone is moving to SAP S/4HANA for the performance and because it's the preferred database for SAP. S/4HANA has new features from the front-end or application feature perspective. The idea is to move toward future-ready technology.\n\n\"",
+        "cons": "\"SAP support isn't on par with products like Microsoft Azure or AWS. It's nowhere close to the competitors.\n\n\""
+    },
+    {
+        "title": "Impressive integration with the ME system but lacking integration with IBP",
+        "name": "VINCENTWU",
+        "pros": "\"I am impressed with how the solution integrates with the ME system and ALE IDocs.\"",
+        "cons": "\"The solution needs to embed or integrate with IBP to fully activate the PPT module with efficiency. \""
+    },
+    {
+        "title": "Real-time data processing and good support with room for market-driven improvements",
+        "name": "Rajnikant Verma",
+        "pros": "\"The real-time data processing and the ability to track all leasing processes and contracts are particularly valuable. \"",
+        "cons": "\"SAP should adopt more rapid changes in market processes and customer needs to deliver solutions that meet new industry requirements swiftly. \""
+    },
+    {
+        "title": "The scalability is good because we can draw upon some cloud resources",
+        "name": "Johny Segura",
+        "pros": "\"The scalability is good because we have some cloud resources to support the ERP.\n\n\"",
+        "cons": "\"Enterprise Cloud's reporting could be more automated to improve content accountability, especially regarding BI reports.\n\n\""
+    },
+    {
+        "title": "A flexible platform with good support and minimal downtime",
+        "name": "Abdul-Rasool",
+        "pros": "\"The solution does provide quite a lot of support, upgrades, automated batch updates, etc. \"",
+        "cons": "\"Our data centers are in Europe and come under GDPR regulations, and this doesn't apply to the Middle East yet. It causes a lot of confusion.\""
+    },
+    {
+        "title": "Flexible with minimum downtime and regular scheduled updates",
+        "name": "Abdul-Rasool",
+        "pros": "\"There's a minimum amount of downtime when using the solution. This platform is very effective.\n\n\"",
+        "cons": "\"The customer has a lot of dependencies on SAP which means they don't have much flexibility to go and update the system when or if they need to. They will need to wait for the quarterly updates. It's possible to maybe raise a special request with SAP if it is absolutely necessary.\""
+    },
+    {
+        "title": "Has good scalability and provides a lot of accessibility options",
+        "name": "AbhishekKalra",
+        "pros": "\"The solution's initial setup process is straightforward.\"",
+        "cons": "\"It needs improvement in terms of stability and performance.\""
+    },
+    {
+        "title": "A stable and fast product that is easy to deploy and has an interface that is easy to manage",
+        "name": "Beatriz Evangelista",
+        "pros": "\"The interface is easy to manage.\"",
+        "cons": "\"The product must provide more details of the errors.\""
+    },
+    {
+        "title": "A good solution that helps make the processes in smaller and bigger companies transparent",
+        "name": "reviewer2129163",
+        "pros": "\"My company has not had any problems with the product's initial setup phase.\"",
+        "cons": "\"The stability of the product is an area of concern where improvements are required.\""
+    },
+    {
+        "title": "Has robust processing and seamless integration between phases",
+        "name": "Bruno Vagas",
+        "pros": "\"Ensuring data integrity across finance, supply chain, and other critical areas is paramount for real-time decision-making. Access to accurate and up-to-date information is essential for data protection. While the digital solution primarily serves basic maintenance, the ability to handle these core aspects efficiently is invaluable for your needs.\"",
+        "cons": "\"It\u2019s a common challenge with applications like Microsoft and SAP that they tend to rely on engineers rather than human resources personnel for knowledge and implementation. \""
+    },
+    {
+        "title": "Enables us to have our business suite integrated all in one entity",
+        "name": "UsamaAbuelatta",
+        "pros": "\"Fiori is the most valuable feature, as well as the the integration between S/4 and another solution as an extension. \"",
+        "cons": "\"The only thing that could be improved is the cost.\n\""
+    },
+    {
+        "title": "A reasonably stable product with a good online portal to help users deal with technical issues",
+        "name": "Adam Elguennioui",
+        "pros": "\"It is a scalable solution if you have a good cloud infrastructure.\"",
+        "cons": "\"Customization is an area of concern in SAP HANA Enterprise Cloud, where improvements are required. \""
+    },
+    {
+        "title": "The monitoring services are the solution's most valuable features",
+        "name": "Sigmund Witerski",
+        "pros": "\"It is a stable and scalable product. \"",
+        "cons": "\"The SAP products are complicated to deploy anywhere.\n\""
+    },
+    {
+        "title": "They take care of the technical aspects of the data, installations, and patches",
+        "name": "Ramakrishna Potluri",
+        "pros": "\"One of the features that I've found most useful is that It's very simple. They take care of the technical aspects of the data, installations, patches.\"",
+        "cons": "\"They should probably offer more cloud services. Most of the cloud infrastructure providers we have make everything pretty transparent, you know what you're getting, you have all these metrics and measurements and everything in the dashboard. Here you have to go through the contracting negotiations and all those things. \""
+    },
+    {
+        "title": "SAP HANA Cloud is a multi-cloud database as a service (DBaaS) used to\u202fdevelop all the applications - Analytics, Predictive",
+        "name": "RamakrishnanRamanathaiah",
+        "pros": "\"The most valuable feature is virtual modeling, which is beneficial because you don't really save the data multiple times the way we did in the past.\"",
+        "cons": "\"This product is not mature enough at this point in time.\""
+    },
+    {
+        "title": "Provides real-time time information with a scalable and stable backend, but requires additional decision making intelligence integrations",
+        "name": "reviewer1342554",
+        "pros": "\"The solution is stable and we have never had a problem. We started with one terabyte of data when the solution was first implemented and today we have around almost 600 gigabytes of data, which means means the compression works properly. Before migrating from ECC, we had nine terabytes of data.\"",
+        "cons": "\"The solution is scalable from an infrastructure point of view. However, it becomes more complex over time because technology is changing so fast.\""
+    },
+    {
+        "title": "Works as well as any other S/4HANA SAP solution, and the continuous support is very valuable",
+        "name": "reviewer1800660",
+        "pros": "\"This solution is as good as any other S/4HANA SAP solution. The continuous support we get is very valuable.\n\"",
+        "cons": "\"The cost could be improved. I think it's higher than the competition.\n\""
+    },
+    {
+        "title": "Performs well, and has good processes",
+        "name": "reviewer1846290",
+        "pros": "\"The processes and the way we take advantage and use assistance are good.\"",
+        "cons": "\"Perhaps minor changes to the enterprise structure could be made, but the rest is fine.\""
+    },
+    {
+        "title": "Converts databases to multi-dimensional models that can be integrated with Power BI,  but the setup needs to be simplified",
+        "name": "it_user857784",
+        "pros": "\"What I like the most is that we can convert databases into a proper multi-dimensional model, and then we can project with the integration with Power BI.\"",
+        "cons": "\"The stability needs to be improved to be able to handle large amounts of data.\""
+    }
+]

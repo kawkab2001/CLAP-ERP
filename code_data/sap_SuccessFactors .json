@@ -1,0 +1,458 @@
+[
+    {
+        "title": "\ufeffEasy to deploy, stable, and scalable",
+        "name": "Marissa Schwan",
+        "pros": "\"SAP SuccessFactors integrated solution, allows us to start the process from a recruitment marketing perspective and have our career site and candidate profile pull through into each other.\"",
+        "cons": "\"SuccessFactors should consider building their best practices around critical industries to help companies become more differentiated in the markets they operate in.\""
+    },
+    {
+        "title": "Useful to manage employee life cycle management but is not very easy to implement",
+        "name": "SandeepKumar7",
+        "pros": "\"It is a very stable solution.\"",
+        "cons": "\"The tool is not very nimble or customizable.\""
+    },
+    {
+        "title": "Good tool for performance and HR management",
+        "name": "Belinda Pearson",
+        "pros": "\"I love SAP, and I like SuccessFactors...I think most users prefer SuccessFactors as they become more comfortable with it.\"",
+        "cons": "\"There have been cases involving a lot of re-implementations and frustrations within clients where they have the workbook sessions, the workbook workshops and things like that. And I think that doesn't really go down well because the workbooks are very technical and, a lot of times, very confusing for the client.\""
+    },
+    {
+        "title": "Stable solution with automatic interlinking and reporting features",
+        "name": "Rania Khoury",
+        "pros": "\"This solution has automatic linking and reporting features.\n\nUpgrades are hassle-free because you don't need to change everything from scratch, when compared to Meta4.\n\n\"",
+        "cons": "\"The process for long modules needs to be improved, because compared to how it's done with a competitor (Meta4), the competitor's process was simpler.\""
+    },
+    {
+        "title": "Offers many useful modules and integrations, and helps companies adhere to best practices",
+        "name": "Wael Elsagh",
+        "pros": "\"The main advantage of SuccessFactors is its ability to add many types of integrations within the SAP Cloud platform. Many useful modules can be implemented alongside SuccessFactors as third-party integrations, and this capability to extend the system is a big plus.\"",
+        "cons": "\"Overall, the documentation could be improved, and I think the learning management module needs to include more capabilities when it comes to matching an organization's particular learning approach.\""
+    },
+    {
+        "title": "Standardized procedures improve organizational discipline and offers great customer service",
+        "name": "Jose Angel  Jasso",
+        "pros": "\"The standardized procedures and best practices embedded in the system are very valuable.\"",
+        "cons": "\"The user experience and interface are not user-friendly.\""
+    },
+    {
+        "title": "360-degree solution for team management with many customization options",
+        "name": "FaizMohammed",
+        "pros": "\"One of the most wonderful features is the ability to customize the modules and workflows. So far, we've done a fair bit of customization and it is helping us a lot and really adds to the value we already get from SuccessFactors.\"",
+        "cons": "\"One of the most essential features that needs improvement right now is the reporting functionality. SuccessFactors' reports seem to be lagging a bit behind and we are very interested in customizing the reporting mechanism such that it pushes reports through quickly and automatically.\""
+    },
+    {
+        "title": "Helps with HR applications including payroll, HRIS, onboarding, recruiting, learning management, talent management, and other HRA applications",
+        "name": "RaviAnupam",
+        "pros": "\"The tool's most valuable feature is its integration capabilities with on-premise ERPs and other systems. \"",
+        "cons": "\"One area for improvement is making SuccessFactors more compatible with other countries, especially in terms of payroll and other functionalities.\""
+    },
+    {
+        "title": "Offers good flexibility but needs to be made more user-friendly",
+        "name": "Ketty Mondoringin",
+        "pros": "\"Considering the flexibility of the system and its ability to accommodate complex business processes, the product is ready to be used in multiple industries.\"",
+        "cons": "\"The product doesn't have a modernized look and is not very user-friendly like other products.\""
+    },
+    {
+        "title": "Constantly improving functionality and a flexible, customizable interface",
+        "name": "reviewer2080089",
+        "pros": "\"The functionality and user friendliness are constantly improving.\"",
+        "cons": "\"The reporting tool is not as good as IBM Cognos which is very, very powerful.\""
+    },
+    {
+        "title": "Provides good reporting and analytics features and has a unique talent management platform",
+        "name": "Jo\u00e3o Ferraz",
+        "pros": "\"The tool has a unique talent management platform.\"",
+        "cons": "\"The Onboarding module must be improved.\""
+    },
+    {
+        "title": "Solid processes for talent Management, in General, supported with good analytics reports but needs more Localization when it's come to Master Data and Time Management",
+        "name": "YamenZarnaji",
+        "pros": "\"The performance goals and learning management solutions are the product's most valuable features.\"",
+        "cons": "\"The solution needs more localization, especially for the Middle East and Russia.\""
+    },
+    {
+        "title": "The solution's most valuable feature is the metadata framework, and they have a powerful learning hub as well",
+        "name": "Darweesh Saber",
+        "pros": "\"They have succeeded in sustaining a powerful system supporting their philosophy.\n\"",
+        "cons": "\"They should work on a faster way of locating a proper documentation.\n\""
+    },
+    {
+        "title": "Has an open architecture and platform so it can coexist with other systems",
+        "name": "Diwakar Loshali",
+        "pros": "\"Provides an open architecture and an open platform so it can coexist with other systems. \"",
+        "cons": "\"SAP resources are at the high end and anything you want to change or any customization is expensive. \""
+    },
+    {
+        "title": "Lacking functionality, and difficult to use, but scalable",
+        "name": "HemChari",
+        "pros": "\"SAP SuccessFactors is a stable solution.\"",
+        "cons": "\"SAP SuccessFactors functionality doesn't meet the expectation of our end users. There are other solutions that have better functionality, such as Workday, which is one of the top applications. Additionally, the solution could be easier to use.\""
+    },
+    {
+        "title": "Robust, responsive support, and plenty of modules available",
+        "name": "Vasu Narasimha",
+        "pros": "\"SAP SuccessFactors is one of the most robust platforms in the world today. For a unique global company, they need a platform that is compliant, such as GDP compliant in Europe. The solution delivers high quality in their core HR IS system which is called Employee Central. The system is one of the strongest and sturdiest modules that are in existence in the world.\"",
+        "cons": "\"SAP SuccessFactors can improve the recruitment module and artificial intelligence features. More powerful analytics are needed.\""
+    },
+    {
+        "title": "A solution that provides excellent customer support and a remarkable GUI",
+        "name": "Rahasia Rommel",
+        "pros": "\"The most valuable features of the solution are GUI and OData API.\"",
+        "cons": "\"Language settings in the solution need to be improved.\""
+    },
+    {
+        "title": "A solution that provides its users with advanced reporting functionalities",
+        "name": "ChiaraRomanelli",
+        "pros": "\"The features of the solution that I found valuable for my business are its ability to create a dashboard, pie charts, and reporting functions, as well as advanced reporting capabilities.\"",
+        "cons": "\"Integration between Employee Central and Compensation in SAP SuccessFactors is one area of the solution that has room for improvement.\""
+    },
+    {
+        "title": "Very robust and intuitive providing great performance management",
+        "name": "Stuti Ghosh",
+        "pros": "\"The solution is very intuitive. Many of the things we need to do are easily accessible.\"",
+        "cons": "\"We lack information regarding how to build a network. \""
+    },
+    {
+        "title": "I like the most is the notification bar where we can see upcoming courses",
+        "name": "Issac Paul",
+        "pros": "\"The feature I like the most is the notification bar where we can see upcoming courses that the organization requires from time to time. It's easy to track any pending courses. I also like the search feature in SuccessFactors. We can search for newly available courses that are updated in the system for completion.\n\n\"",
+        "cons": "\"I find that the website sometimes has problems loading, but I'm unsure if it's an issue with SuccessFactors. After the login, there are some connection issues. We get some errors telling us that it cannot connect to the host.\n\n\""
+    },
+    {
+        "title": "Useful for recruitment and performance management and helps to record documents in one place",
+        "name": "Naomi Kreinz",
+        "pros": "\"The tool is easy to use for performance management. We haven't experienced any issues with SAP SuccessFactors for performance management, which is great. However, since we're still learning to use it fully, we might not utilize all its available features yet.\n\n\"",
+        "cons": "\"We encountered challenges with the tool's integration with third-party applications and deployments.\n\n\""
+    },
+    {
+        "title": "Good learning management and application tracking with good customizations",
+        "name": "reviewer2101347",
+        "pros": "\"It's a uniform user interface. \"",
+        "cons": "\"The solution is quite expensive. \""
+    },
+    {
+        "title": "Good performance and goal management,  but integration between the recruitment module and employee central is a big problem",
+        "name": "SandeepKumar7",
+        "pros": "\"The performance and goal management is good, and it has a fairly detailed employee central.\"",
+        "cons": "\"The integration between the recruitment module and employee central is a big problem.\""
+    },
+    {
+        "title": "Highly flexible and gives full visibility into our workforce management processes",
+        "name": "Ahmed_Haridy",
+        "pros": "\"I think it's perfect that every requirement has flexibility in how it is handled, and that there are several workarounds for any problem we are looking to solve. Each problem has multiple solutions, so it gives us a lot of flexibility in terms of processes. \"",
+        "cons": "\"To explain one feature that I would like to see in SuccessFactors, I must describe a similar feature as seen in Oracle. In Oracle, there's a feature called Workforce Prediction, and with this feature, we can predict some of the behaviors of any employee. For example, the software can attempt to predict whether the employee might resign in future, or perhaps if they will start to perform better. This is something that is missing in SuccessFactors. \""
+    },
+    {
+        "title": "Good user experience, reliable, and scalable",
+        "name": "Juzar Badami",
+        "pros": "\"The UX in SAP SuccessFactors is good.\"",
+        "cons": "\"SAP SuccessFactors could improve the integration. It is not simple to integrate and it needs to be made easier.\""
+    },
+    {
+        "title": "Support core HR and workforce planning",
+        "name": "Mukesh Mathur",
+        "pros": "\"The SuccessFactors learning applications within the SuccessFactors learning modules, as well as the performance management system, are highly beneficial for each and every employee in our organization. These tools eliminate the need for using Excel to manage data, allowing for direct input into the system. This streamlines the process, making it easier to view and analyze information. We can readily access our performance history, comparing our actions and achievements from the previous year. At present, we are consistently monitoring our day-to-day performance.      \"",
+        "cons": "\"Visual representations, in the form of graphs and charts, can be added. This is beneficial for both management and employees. Upon accessing the system, they should generate graphical representations on their dashboard. These visuals illustrate aspects such as company-wide training progress and current company training status. The information encompasses both company-related data and personal profiles. This approach makes it convenient to grasp the company's profile along with individual information.\""
+    },
+    {
+        "title": "A lot of good features and generally flexible",
+        "name": "Genni Barnes",
+        "pros": "\"Flexible with a lot of good features. \"",
+        "cons": "\"There are some limiting aspects to this product.\""
+    },
+    {
+        "title": "There are several solutions built into it, like training and workforce analytics.",
+        "name": "ChristopherOrilogbon",
+        "pros": "\"All of SuccessFactors' features are useful, but there are several modules within SuccessFactors that I find handy. You have Employee Central, which manages employee records within the system. It manages all the information about an employee, including names, addresses, account numbers, positions, org charts, etc. It also handles performance reviews and KPIs for employees within an organization. Then you have succession planning and development as well.\n\n\"",
+        "cons": "\"SAP SuccessFactors is a very reliable and stable solution.\""
+    },
+    {
+        "title": "Highly reliable, scalable, but complex",
+        "name": "reviewer1986534",
+        "pros": "\"SAP SuccessFactors is working on making beneficial changes but they are not fast enough. They can improve by making the improvements or updates quicker. Additionally, the user interface could improve, it is not something you want to return to when compared to a solution similar to Instagram.\"",
+        "cons": "\"SAP SuccessFactors, in my opinion, is the best cloud-based HR solution tool for any size business.\""
+    },
+    {
+        "title": "Reasonable module-based pricing, excellent technical support, and is popular for business of any size",
+        "name": "Bhuwan Ghosh",
+        "pros": "\"Everything, including the provisioning dependency, should be moved to the instance, and coding should be kept to a minimum. Wherever possible, coding should be minimized, and everything should be a drag-and-drop.\"",
+        "cons": "\"The solution is scalable. We have about 1,300 people using the solution.\n\""
+    },
+    {
+        "title": "HR solution used for core processes, administration, time management, and performance management",
+        "name": "Dave Dumeni",
+        "pros": "\"SAP should also look into easily integrating with other applications or other tools. Technology has changed now, and it should be easier for any application to integrate with other apps. There needs to be more flexibility.\"",
+        "cons": "\"SuccessFactors' most valuable feature is performance management.\""
+    },
+    {
+        "title": "Ridiculously expensive and doesn't give any ROI",
+        "name": "Fachlul Infithar",
+        "pros": "\"I don't think SuccessFactors is quite fit for use as an employee database.\"",
+        "cons": "\"HR and managers can use the onboarding tool to help new employees prepare for their first day on the job, which can help them acclimate to the company culture and reduce anxiety.\""
+    },
+    {
+        "title": "Great for HR business processes with helpful talent management tools and onboarding capabilities",
+        "name": "YamenZarnaji",
+        "pros": "\"The complete integration process between SuccessFactors modules is not at the level that all customers expect when it comes to complete HR user experience from all angles. \"",
+        "cons": "\"The cloud security and the correct features for payroll calculations, once issues are resolved, are valuable aspects of this product.\""
+    },
+    {
+        "title": "Handling payroll calculations with robust security and good flexibility",
+        "name": "srmanage732123",
+        "pros": "\"One area of improvement is the time taken to configure changes, such as taxation rules, which can take several months.\"",
+        "cons": "\"The most valuable feature of SAP SuccessFactors is that it is a full suite of applications to enable your employees. Additionally, it has good integration with S4 HANA. Our payroll solution is from SAP and the integration becomes much easier when using SAP SuccessFactors.\""
+    },
+    {
+        "title": "Well-structured support platform, integrates well, and high availability",
+        "name": "Ramakrishna Potluri",
+        "pros": "\"SAP SuccessFactors' pricing structure could be improved.\"",
+        "cons": "\"There are a lot of features in SuccessFactors that HR can actually explore. We recently implemented a learning platform that employs the individual staff to actually manage their own learning. \""
+    },
+    {
+        "title": "Useful for large enterprises for HR, performance management, and learning management",
+        "name": "Alaba Ayotunde O. OLUWAYIMIKA",
+        "pros": "\"The price could be lower.\n\"",
+        "cons": "\"Overall, it's excellent performance management. \""
+    },
+    {
+        "title": "Good performance management and business processes with an easy deployment process",
+        "name": "Rahasia Rommel",
+        "pros": "\"The pricing of SAP is quite high.\"",
+        "cons": "\"It has a global database, and it is globally accessible. By using this solution, we have moved away from paper, which is a big step for us.\""
+    },
+    {
+        "title": "Stable and globally accessible, but needs more features and better user experience, flexibility, and integrations",
+        "name": "reviewer1488675",
+        "pros": "\"Its overall integration and user experience can be improved. SuccessFactors is a system that is built out of three different systems. The elements part was bought from Plateau, and the original performance dialogue was built by SuccessFactors itself. After that, SAP bought it, and it hasn't improved in the last few years.\n\nSuccessFactors is a perfect tool if you use it the way it is meant to be, but if you start building custom sessions and try to use it differently, then it is a total mess. It is not agile. It is like an old Mastodon truck or whatever.\n\nWe don't have the Employee Central and Competence Management modules. Our company made the choice to not implement the Employee Central module. We also didn't implement the Competence Management module. We use the learning module to do some competence management, but I am not that fond of it. It would have been best to have the whole suite. SAP should never sell this without selling the whole suite because it just doesn't work.\n\nThe biggest gain for me would be having the possibility of doing strategic personnel planning and managing internal mobility. If it could be used for social purposes, such as creating communities and connecting with media channels, that would be perfect. It should also have the possibilities for local admin and agile product development.\"",
+        "cons": "\" It covers all the everyday functions of the employee life cycle.\""
+    },
+    {
+        "title": "It's a stable solution that covers all the functions in the employee lifecycle, but the interface is outdated",
+        "name": "Mohammed Mehdi",
+        "pros": "\"SuccessFactors feels rigid. It should be more streamlined. Also, the interface design is outdated and needs an upgrade. \"",
+        "cons": "\"Compared to other on-premise solutions, the first advantage of SAP SuccessFactors is that it is a SaaS-based solution.\""
+    },
+    {
+        "title": "Good security measures for managing confidential HR information",
+        "name": "ImranHasware",
+        "pros": "\"There is an area of improvement in integrating SuccessFactors with different platforms. \"",
+        "cons": "\"This solution offers good flexibility and configurability.\n\nIt can handle different types of performance management.\""
+    },
+    {
+        "title": "Offers flexibility and easy configuration; can handle different types of performance management",
+        "name": "Uma Das",
+        "pros": "\"User experience for this solution needs to be improved. \"",
+        "cons": "\"It is a scalable solution. \""
+    },
+    {
+        "title": "Good scalability but quite expensive solution",
+        "name": "reviewer2036019",
+        "pros": "\"There is room for improvement in licensing model. \"",
+        "cons": "\"It has improved my organization by enabling us to efficiently manage our personnel.\""
+    },
+    {
+        "title": "Enabled us to efficiently manage our personnel and has the ability to set and review goals",
+        "name": "ChristopherOrilogbon",
+        "pros": "\"Also, it would be helpful if they could improve its ability to localize the product to Nigeria.\"",
+        "cons": "\"The tool's most valuable feature is document generation. \""
+    },
+    {
+        "title": "Document generation feature is valuable but needs improvement in LMS and performance management",
+        "name": "Emad Massoud",
+        "pros": "\"SAP SuccessFactors needs to improve the LMS and performance management.\"",
+        "cons": "\"The most valuable features of SAP SuccessFactors are onboarding, recruiting, marketing, and performance.\""
+    },
+    {
+        "title": "Plenty of modules, great support, and high availability",
+        "name": "Wael Elsagh",
+        "pros": "\"SAP SuccessFactors could improve learning management. The module is desperate and should be included in the primary solution. Additionally, it is missing some business use cases.\"",
+        "cons": "\"SuccessFactors' best features are talent management and HR Analytics.\""
+    },
+    {
+        "title": "Great talent management and HR analytics",
+        "name": "Mouly Korthiwada",
+        "pros": "\"SuccessFactors' experience management is not so user-friendly.\"",
+        "cons": "\"The best features that were working well for us was the Goal Management and Performance Management. They were the most valuable to our organization.\""
+    },
+    {
+        "title": "Made our operations much easier and smoother but the reports need improvement",
+        "name": "Darien Khairy",
+        "pros": "\"They should improve the reports. \"",
+        "cons": "\"What I appreciate most about SAP SuccessFactors is that it has all the modules in one platform.\n\nSAP SuccessFactors is the best option in the market for HR use cases.\n\nI also find the solution user-friendly.\""
+    },
+    {
+        "title": "Allows us to consolidate our review processes. Has a complex data integration process.",
+        "name": "it_user521811",
+        "pros": "\"The SAP SuccessFactors updates need to be more industry-specific because every industry has specific modules.\n\nWhat I want to be added to SAP SuccessFactors is a chat box where SAP staff can give support to users.\"",
+        "cons": "\"The self-service part is most valuable. Employees and managers can do a lot of things on their own, and they are not dependent on the HR organization. \""
+    },
+    {
+        "title": "Scalable, user-friendly, and has a good knowledge base and support",
+        "name": "Nisha Kannake",
+        "pros": "\"The data management part can be improved in terms of how you can manage data from the HR admin's or HR team's perspective. It has some limitations in the reporting part in terms of how you can update the data and fetch the data. SAP HCM comparatively has a lot of capabilities in terms of backup loads, data management, data changes, etc. You can do these things easily, which is not the case with SAP SuccessFactors. Data management should be simplified in SAP SuccessFactors in terms of accessing the data, reporting, and then manipulating the data.\"",
+        "cons": "\"The most valuable feature of this solution is the performance management module.\n\""
+    },
+    {
+        "title": "Allows employees and managers to do a lot of things on their own and has good data security",
+        "name": "reviewer1400613",
+        "pros": "\"The GUI needs to be enhanced to be in line with the latest and complete version of the solution.\n\"",
+        "cons": "\"Easy to use and user-friendly. \""
+    },
+    {
+        "title": "Good performance management, reporting, and more scalable than other solutions",
+        "name": "Ahmed-Haridy",
+        "pros": "\"Forms cannot be edited once submitted. \"",
+        "cons": "\"Talent Acquisition and Learning features are best in class.\""
+    },
+    {
+        "title": "Easy to use and very user-friendly",
+        "name": "Irina Dewi",
+        "pros": "\"The Reporting/Analytics and User Interface need improvement.\"",
+        "cons": "\"The most valuable feature of SAP SuccessFactors is analytics.\""
+    },
+    {
+        "title": "Used daily for various HR functions, but excels in talent acquisition and learning",
+        "name": "Joe DeWitt",
+        "pros": "\"The price of the solution could improve, it is too high.\"",
+        "cons": "\"The most valuable feature is the onboarding module, which enables candidates to fill in their details online and smoothly transitions data from the recruitment module into the SAP database.\""
+    },
+    {
+        "title": "Useful analytics, reliable, but could improve pricing",
+        "name": "Andrea Gonz\u00e1lez",
+        "pros": "\"SuccessFactors could be improved by making it usable on mobile and making its features less rigid.\"",
+        "cons": "\"The interface is user-friendly. It is very simple and intuitive, so it's good. \""
+    },
+    {
+        "title": "Intuitive and user-friendly tool that makes onboarding smooth",
+        "name": "reviewer1759518",
+        "pros": "\"There should be more connectivity with other systems.\"",
+        "cons": "\"This solution can be used for reporting related to employee information and contacts\""
+    },
+    {
+        "title": "SAP SF EC Support ou HR Transformation Strategy",
+        "name": "reviewer1115727",
+        "pros": "\"SAP SuccessFactors is stable, we have not found any bugs or glitches.\"",
+        "cons": "\"The SAP SuccessFactors integration with old versions can improve. We are using an older finance module but we are having migration issues.\""
+    },
+    {
+        "title": "HR management solution used to track employee information that could be improved by offering automated reports",
+        "name": "Rahmat Karyawan",
+        "pros": "\"It is a scalable solution. I would rate it a ten out of ten. \"",
+        "cons": "\"There is room for improvement in the pricing model. \""
+    },
+    {
+        "title": "Reliable, helpful support, and scalable",
+        "name": "George Aedo",
+        "pros": "\"The solution is stable. \"",
+        "cons": "\"The back end for the administration and the front end is too overtly complex and it's not aligned with our operations and learning needs.\""
+    },
+    {
+        "title": "Highly scalable and stable solution",
+        "name": "reviewer2052081",
+        "pros": "\"What I like most about SAP SuccessFactors are its recruiting and compensation features.\"",
+        "cons": "\"There's room for improvement in SAP SuccessFactors, particularly in terms of innovation. I'd like more flexibility in its functionality and more customization.\n\nIn terms of what additional feature I'd like to see in the next release of the product, it depends on the module because you have various modules in SAP SuccessFactors, so it's easier to go module by module and understand what features you have in each module. The product has a lot of features coming up, but the product being more mobile, or having mobile features would be nice.\""
+    },
+    {
+        "title": "Robust but too complex and needs a nicer backend experience",
+        "name": "Clement Yu",
+        "pros": "\"This solution is very user-friendly, and supports 60 plus languages.\"",
+        "cons": "\"There is not much scope for enhancements, personalization, or customization with the cloud-based variant of this solution, which could be improved.\""
+    },
+    {
+        "title": "Converts manual processes into automated processes and is good for recruitment and compensation",
+        "name": "reviewer1897932",
+        "pros": "\"It's brought to our organization a big big improvement. We would give it a good rating. \"",
+        "cons": "\"We have many interruptions and disconnection points into processes, which is why we are looking to another solution. We are not so happy with the system. We believe we have in the market better solution, so we are looking for alternatives but so far the system has been used a lot.\""
+    },
+    {
+        "title": "The role-based permissions functionality is robust and flexible. The integration methods can be more user-friendly.",
+        "name": "it_user589368",
+        "pros": "\"In terms of user experience, it is quite good. \"",
+        "cons": "\"There are a few features that are missing. There are specific features on the HTM, such as telecom safety, that just isn't there. It's not a very detailed solution in that sense. However, it is maybe not expected to have those kinds of features on the surface level of the product.\""
+    },
+    {
+        "title": "A strong, cloud-based HR application solution that is extremely user-friendly, but does not offer any customization options",
+        "name": "reviewer1992846",
+        "pros": "\"Scalability-wise, I rate the solution an eight out of ten...It is a stable solution.\"",
+        "cons": "\"It's a bit complicated to make a change in the tool... It is time-consuming.\""
+    },
+    {
+        "title": "Has a lot of flexibility but it doesn't give us the flexibility to integrate to other modules",
+        "name": "reviewer1057695",
+        "pros": "\"We have found objects like Foundation and MDF most valuable.       \"",
+        "cons": "\"I would like to be able to configure objects from instances, not from import and export files.\""
+    },
+    {
+        "title": "Good integrations and a great user experience, but missing a few features",
+        "name": "reviewer1388325",
+        "pros": "\"The initial setup was pretty simple.\"",
+        "cons": "\"The stability could be a bit better.\""
+    },
+    {
+        "title": "A highly stable HRIS database that needs to be made less complicated for its users",
+        "name": "Andra-Gabriela Matei",
+        "pros": "\"This solution has always been stable for me.\n\"",
+        "cons": "\"I think there is room for improvement in user friendliness. In my experience, users are sometimes confused about how to use the solution. \""
+    },
+    {
+        "title": "The overall interface is easy and user-friendly",
+        "name": "Hosam Ahmed",
+        "pros": "\"What I like the most is the KPI management formula.\"",
+        "cons": "\"The user experience could be simplified.\""
+    },
+    {
+        "title": "Easy to set up with good third-party integrations and an improved recruiting module",
+        "name": "reviewer1526628",
+        "pros": "\"The interface is really useful and it's very easy to combine different information. For example, we can easily get reports that we need. It's very easy to create reports. \"",
+        "cons": "\"Some of the screens aren't that user-friendly, older employees especially have a hard time with it. They have some problems with it. \""
+    },
+    {
+        "title": "We like the UI, workflow configuration and role-based permissions.",
+        "name": "it_user607389",
+        "pros": "\"Currently, we are using the performance and goals management functionality the most. It is connected with the enterprise solution, and it is seamless.\n\nIt can be easily accessed because it is available via the net. It is readily available, provided you have an internet connection. Their technical support is also very good.\"",
+        "cons": "\"It is not that user-friendly. It can be made more user-friendly.\""
+    },
+    {
+        "title": "Great performance management workflow",
+        "name": "Rahasia Rommel",
+        "pros": "\"The most important feature is the ability to follow up on the yearly performance of the team. It's very good for management to understand how people are performing.\"",
+        "cons": "\"LMS, Learning Management Systems, needs improvement because there were some stability problems.\""
+    },
+    {
+        "title": "Good performance for HR functions and it has a good KPI management formula",
+        "name": "reviewer1411566",
+        "pros": "\"This solution provides up with an easy way to on/off-board staff, as well as actioning internal transfers.\"",
+        "cons": "\"We would like to see improvement in the initial launch of the product, as it is currently quite slow.\""
+    },
+    {
+        "title": "The interface is really useful and it's very easy to combine different information and to create reports",
+        "name": "reviewer1023261",
+        "pros": "\"It's very user-friendly.\"",
+        "cons": "\"The initial setup could be simplified.\""
+    },
+    {
+        "title": "Offers out-of-box headcount and strategic reporting. The Learning module can be used for compliance training and talent development.",
+        "name": "it_user584106",
+        "pros": "\"The performance of the solution is very good.\"",
+        "cons": "\"he user interface could be improved.\""
+    },
+    {
+        "title": "Working with different types of forms in one platform is helpful.",
+        "name": "Liat Oren Wachs",
+        "pros": "\"SuccessFactors offers all aspects of Human Resources Management. What I love most about it is that it can be implemented for any company very quickly. \"",
+        "cons": "\"They should be more user friendly and give us more tools to make it more flexible.\""
+    },
+    {
+        "title": "How to Train a Global Workforce Without Breaking the Law",
+        "name": "it_user157695",
+        "pros": "\"We use the cloud version to maintain all the employee records, payroll, etc. We use everything that comes with the HR suite.\n\n\"",
+        "cons": "\"Analytics could use some work.\n\n\""
+    },
+    {
+        "title": "Easily accessible and useful for performance and goals management but not very user-friendly",
+        "name": "Renelia Villanueva",
+        "pros": "\"The overall functionality of the solution is very good.\n\n\"",
+        "cons": "\"The reporting and cloud integration could be done better in this solution.\""
+    }
+]
