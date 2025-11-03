@@ -1,0 +1,1106 @@
+[
+    {
+        "title": "Good storage and reliable but needs a better dashboard",
+        "name": "Duy AnhMai",
+        "pros": "\"I use Oracle Database just for storage of the corporate database data and the finance data. \"",
+        "cons": "\"The dashboard is not user-friendly.\""
+    },
+    {
+        "title": "Good high availability, data protection, and disaster recovery",
+        "name": "Satishbabu Gunukula, Oracle ACE",
+        "pros": "\"Oracle Database is easy to install and set up. \"",
+        "cons": "\"The high availability features are a little complex to set up and manage. \""
+    },
+    {
+        "title": "Very robust, ideal for companies that need mission-critical databases, and extremely mature",
+        "name": "Emmanuel Morka",
+        "pros": "\"The solution has very robust integrity due to how it is designed and implemented.\"",
+        "cons": "\"The solution can be quite expensive for small and medium-sized enterprises. Not too many companies can actually afford the pricing.\""
+    },
+    {
+        "title": "Reliable and robust with good support",
+        "name": "Craig Domanski",
+        "pros": "\"The reliability is the solution's most valuable feature. We've had great success with the solution.\"",
+        "cons": "\"The main thing we find could use improvement is the licensing costs. It is quite expensive relative to other database vendors. Cost always comes up as an issue for us as we consider upgrade paths. It's not as easy as we would like it to be.\""
+    },
+    {
+        "title": "Supports a large volume of transactions compared to other databases",
+        "name": "Gnanavel-Chakkarapani",
+        "pros": "\"The tool supports a large volume of transactions compared to other databases we've used. One feature that had a significant impact is Oracle Data Integrator. It allows us to transfer data from the enterprise database to the data warehouse. This is useful for creating different data sets for finance teams and other departments.\n\n\"",
+        "cons": "\"The tool's deployment and configuration is difficult. Sometimes, the network DNS settings aren't connected, so we need to check and enable the configuration, which is the difficult part. Maintenance requires a bit of effort. We need to monitor the database performance, check the number of concurrent users on Oracle, and handle any unwanted queries from users. You need at least two people to do it.\n\n\""
+    },
+    {
+        "title": "The migration process from other tools can be described as a simple process",
+        "name": "Amey Darekar",
+        "pros": "\"The product's installation phase was straightforward.\"",
+        "cons": "\"Considering the current threats in the industry, my company has to put in efforts to update the tool, or we have to work on some more things so that we can have a secure environment.\""
+    },
+    {
+        "title": "Gets the job done, doesn't fail, and suitable for massively scalable applications",
+        "name": "Paul Stearns",
+        "pros": "\"The thing that probably stands out the most about Oracle Database is reliability. I have been working with Oracle Databases for over 25 years, and I have never lost any data due to a machine going down or any events that were not stupid human tricks. I've never lost anybody's data using Oracle. It gets the job done and doesn't fail. \"",
+        "cons": "\"There is a lot of room for improvement. Ease of use is probably the biggest complaint. They're getting somewhat better, but it is not as easy or intuitive as it could be in terms of maintaining and managing the database.\""
+    },
+    {
+        "title": "Enhances query performance, helps resource revision, and can analyze large datasets",
+        "name": "VINCENTWU",
+        "pros": "\"Oracle can quickly expand its capacity to handle growing data needs by adding additional server resources.\"",
+        "cons": "\"Cost is always a concern.\""
+    },
+    {
+        "title": "Used for transaction system and internal data management system",
+        "name": "AnkitKumar 1",
+        "pros": "\"Our internal data management system runs on Oracle Database.\"",
+        "cons": "\"The solution\u2019s integration could be improved.\""
+    },
+    {
+        "title": "Provides excellent security features and is one of the oldest and most well-known databases",
+        "name": "Sumeet  Zalpuri",
+        "pros": "\"The solution has every security aspect that needs to be there in enterprise software.\"",
+        "cons": "\"The stability could be improved.\""
+    },
+    {
+        "title": "Exceptional features with good availability, and reasonably priced",
+        "name": "Vikas Dixit",
+        "pros": "\"All of the features offered by Oracle, more than meet the expectations.\"",
+        "cons": "\"As of now, Oracle is branded to Oracle only, the option of migrating to other databases is not available.\""
+    },
+    {
+        "title": "Handles large datasets seamlessly",
+        "name": "Patric Gehl",
+        "pros": "\"The most valuable features of Oracle Database for data management are its ability to handle large datasets seamlessly, support for writing custom PL/SQL stored procedures, and its capability to perform complex computations and statistics directly within the database.\"",
+        "cons": "\"Improvements in Oracle Database could focus on simplifying deployment processes and providing clearer documentation.\""
+    },
+    {
+        "title": "Useful Enterprise Manager, beneficial automatic resource assigning, and high performance",
+        "name": "Eva Kimathi",
+        "pros": "\"Oracle Database is running on the same old hardware that I had the 11g version on and it is operating faster. It seems to be really good. It's fast even when the workload is heavy, easy to do backups and other administrative tasks with the Enterprise Manager. \"",
+        "cons": "\"Oracle Database has improved how we do our administrative backups. The solution has a smaller footprint than 11g, it's more efficient on the resources for the users. It has a smoother user experience with the ERP and fewer field transactions.\""
+    },
+    {
+        "title": "Offers security features that are good, reliable, and stable",
+        "name": "reviewer2133219",
+        "pros": "\"The product's initial setup phase was very easy.\"",
+        "cons": "\"The high price of the product is an area of concern where improvements are required.\""
+    },
+    {
+        "title": "Highly reliable, perfectly stable, and scalable",
+        "name": "PeterKrall",
+        "pros": "\"It is one of the most reliable database systems. \"",
+        "cons": "\"With the new version, we never came across any important limitations. There was nothing that needed improvement. However, in versions 9 and 10, we sometimes had problems, and big and complicated queries did not get through. In versions 11 and 12, I did not experience any problem.\n\nThere could be some more information about load balancing and all these things. For me, it was just a part of the infrastructure maintained by other people. So, I cannot really say what they need.\""
+    },
+    {
+        "title": "A efficient solution with fast processing feature",
+        "name": "Chris Chris",
+        "pros": "\"The tool is efficient and fast compared to other alternatives. The tool's processing speed is fast, and we've experienced minimal hang-ups. This enables us to address queries within a shorter time frame. I wouldn't say it's just one particular feature, but overall, the efficiency and speed of Oracle Database have had a significant impact. Our support systems are more efficient, allowing us to accomplish tasks quickly.\n\n\"",
+        "cons": "\"The tool's price gap is a major concern. It makes it hard for others to afford it and use it effectively. More people could benefit from its features if the pricing could be made more reasonable. Many companies choose cheaper options because of this affordability issue.\n\n\""
+    },
+    {
+        "title": "Is robust, bug-free, and highly flexible",
+        "name": "Tushar Rahatekar",
+        "pros": "\"It's very stable and highly available. I also like the row-level locking feature. It can manage billions of rows of data.\"",
+        "cons": "\"The initial setup could be easier.\""
+    },
+    {
+        "title": "Integrates well with other solutions and has good stability",
+        "name": "Rafiq Tala'At",
+        "pros": "\" It meets our high availability, resilience, and large-scale data management requirements.\"",
+        "cons": "\"The product requires higher expertise compared to Microsoft. It could be easy to use.\n\n\""
+    },
+    {
+        "title": "Offers good return on investment to users",
+        "name": "Satya Raju",
+        "pros": "\"The solution's most valuable feature is the row-level security that helps mask and encrypt data.\"",
+        "cons": "\"Oracle Cloud has a bit of a learning curve, so from an improvement perspective, we need to have a simple way to connect to computing in Oracle Cloud.\""
+    },
+    {
+        "title": "Comes with encryption features and security is good",
+        "name": "Sharique Rizvi",
+        "pros": "\"The tool's most valuable feature is data encryption. The security features are good. They include field-level security, role-level security, and easy access controls.\n\n\"",
+        "cons": "\"The tool is costly, and migration is hard. We need tools like Database Migration Assistant for Oracle to migrate data between databases. Sometimes, older versions of Oracle are no longer supported, making the transition even more difficult.\n\n\""
+    },
+    {
+        "title": "Ensures data security with robust features but needs better cost-effectiveness",
+        "name": "Istiaque_Bhuiyan",
+        "pros": "\"It is highly secure, with an architecture that prevents hacking incidents, making it the most secure database available. \"",
+        "cons": "\"The pricing could be more cost-effective, as the high price is driving some customers to consider migrating to open-source alternatives.\""
+    },
+    {
+        "title": "Offers performance optimization that has an excellent impact on the database",
+        "name": "Paresh_Nayak",
+        "pros": "\"Oracle's performance optimization has had an excellent impact on our database.\"",
+        "cons": "\"Oracle itself does not provide an excellent migration tool to users, which is a shortcoming where the product needs to improve a lot.\""
+    },
+    {
+        "title": "High availability, scalability, load balancing, but expensive",
+        "name": "MuhammadFurqan",
+        "pros": "\"It has good features for performance tuning.\"",
+        "cons": "\"The price could be lower.\""
+    },
+    {
+        "title": "A hybrid solution for ETL and real-time data analytics",
+        "name": "Prajith Chowthee",
+        "pros": "\"The solution is easy to use. It also offers a Database Vault.\"",
+        "cons": "\"The pricing could be improved.\""
+    },
+    {
+        "title": "A capable and stable solution with good security and support",
+        "name": "Chinthake Ranasinghe",
+        "pros": "\"The database capability and the security side of the database are the real valuable features. The cloud SaaS model is also valuable.\"",
+        "cons": "\"They can simplify and make the deployment more user-friendly. Deploying Oracle solutions requires a lot of technical input. If that can be improved, it would really add value to the business.\""
+    },
+    {
+        "title": "Scalable, reliable, but installation could be easier",
+        "name": "Manjunath Bhimareddy",
+        "pros": "\"I have been satisfied with the technical support from Oracle.\"",
+        "cons": "\"I have been looking for a virtualization database engine from Oracle. They have third-party vendors that can do it but if Oracle comes with its own virtual engine, it would be helpful. Additionally, the solution could be more user-friendly and improve the Transparent Data Encryption. \""
+    },
+    {
+        "title": "A very scalable and secure tool that offers very high-performance",
+        "name": "reviewer1063128",
+        "pros": "\"In general, the product is strong enough and offers high performance.\"",
+        "cons": "\"How you implement or deploy the product can be an area of concern that can be made a bit easier. \""
+    },
+    {
+        "title": "Performs well, easy to use, and the technical support is quite good",
+        "name": "Kopano  Ramaphoi",
+        "pros": "\"In general, Oracle is quite good. It's a large database that houses many applications.\"",
+        "cons": "\"When you try to tell customers that you can critically patch their system, they always complain about the cost.\""
+    },
+    {
+        "title": "Easy to set up with good performance but is too expensive",
+        "name": "Lakshman Nimmakayala",
+        "pros": "\"We find the solution to be stable.\"",
+        "cons": "\"They could improve the scalability a bit. There are other options that are more scalable, for example. \""
+    },
+    {
+        "title": "It provides scalability, stability, reliability, performance, and security",
+        "name": "reviewer1439427",
+        "pros": "\"Scalability, reliability, and performance are what we are getting with this solution. It is highly scalable and has very good performance. It also has in-built monitoring and optimized optimizer.\n\nIt is quite stable and secure. When it comes to integration, you can integrate it with other tools as well. However, we have been using Oracle Database within our own premises. So, it is kind of difficult for us to basically do a kind of integration with the outside software. We prefer to do things within our own premises.\"",
+        "cons": "\"There are SQL plan flips that are happening with version 12c. We would basically like to have the next version wherein we don't see such plan flips because they create performance issues. There are quite a lot of features that I would like to see, but this is the main one for now.\""
+    },
+    {
+        "title": "Very secure, Highly scalable and high performance enterprise database",
+        "name": "it_user515592",
+        "pros": "\"Stability and availability are the features I like the most in the solution.\"",
+        "cons": "\"The product's price can be lower since it is a bit of an expensive solution.\""
+    },
+    {
+        "title": "With multi-tenancy, you can set up background processes and memory at the container level.",
+        "name": "it_user522033",
+        "pros": "\"It is very fast. The response times are very fast.\"",
+        "cons": "\"Its price can be improved. \""
+    },
+    {
+        "title": "With great stability and availability as its features, the tool also makes it easy for users to scale up if needed",
+        "name": "reviewer2239944",
+        "pros": "\"The support is always very helpful and responsive. \"",
+        "cons": "\"The setup process can be a bit complex. \""
+    },
+    {
+        "title": "Fast, very stable, and suitable for large sites",
+        "name": "JohnMitchell",
+        "pros": "\"It is reliable. It's very stable. \"",
+        "cons": "\"The solution can be quite expensive.\""
+    },
+    {
+        "title": "Flexible, with a variety of setup options and good technical support",
+        "name": "Vishal_Goyal",
+        "pros": "\"The reporting feature was fine for what we were using it for. Oracle Database has been serving its purpose, and I was happy. \"",
+        "cons": "\"Their migration strategies could be better because most of these companies keep the same version for six or seven years and then update it to the latest version.\""
+    },
+    {
+        "title": "Reliable and stable with excellent features",
+        "name": "Omar Al-Qaysie",
+        "pros": "\"It is a mature product. It is pretty stable. I've got a lot of experience with it, so it is pretty easy to use.\"",
+        "cons": "\"The software really doesn't need any improvement, but the way they do the billing should be improved. They charge by all the chips on the server, whether you use them or not. If you have a server that has 64 chips on it and you use one chip, they charge you for 64, and that's a terrible business model.\""
+    },
+    {
+        "title": "A multi-model database management system with a useful reporting feature",
+        "name": "Mpho Morake",
+        "pros": "\"Most of our customers have been using multitenant options. Advanced Compression and Advanced Security are the most valuable features in most customer environments.\"",
+        "cons": "\"The primary concern is that Oracle is highly restricted in terms of the approved technologies where we can freely deploy Oracle Database or any other Oracle product. \""
+    },
+    {
+        "title": "One of the new features I've been using lately is the In-Memory column store.",
+        "name": "it_user284961",
+        "pros": "\"Partitioning is most valuable.\"",
+        "cons": "\"The setup for Enterprise Manager Grid Control can be a bit easier.\""
+    },
+    {
+        "title": "Mature, stable, and easy to deploy",
+        "name": "reviewer1089354",
+        "pros": "\"Oracle Database has good performance dynamics with respect to oncoming data and fetching of data which gets loaded.\"",
+        "cons": "\"They need to work on non-relational data a bit more. If Oracle Database can support non-relational data streaming, it would be great.\""
+    },
+    {
+        "title": "High-performance solution with lots of options for security, diagnostics and tuning",
+        "name": "Deepak Nandal",
+        "pros": "\"The pricing is very competitive. Oracle is still the number one database company. From the technical aspects, Oracle Database is the best solution for small, medium, and big industries. \"",
+        "cons": "\"I'm in Indonesia. From what I know, Ali Cloud has already built a center in Indonesia, and Google also has a data center in Indonesia. I have heard that Amazon will also build a data center in Indonesia, and the same will be with Azure if they deal with the Indonesian government. I'm quite appreciative of what Amazon has done by deciding to have a local data center. I expect Oracle to do the same, but Oracle doesn't seem to have plans to build a data center in Indonesia. This is something that needs to be improved.\n\nOracle should follow all the other cloud providers who see a potential market in Indonesia. It would be better for Oracle to be equal to other cloud providers and have a data center in Indonesia so they can compete. Having a local data center means that they can avoid performance issues, the latency of the network, and all the things that are related to the network for internet-based solutions. Customers in Indonesia expect a local data center.\""
+    },
+    {
+        "title": "Oracle is our product of choice because of its stability, scalability, reliability, and flexibility.",
+        "name": "it_user436173",
+        "pros": "\"Compared to other databases, Oracle Database is very simple to manage in terms of the database itself.\"",
+        "cons": "\"We use Oracle Database to run applications. We use it for our clients' databases and applications.\""
+    },
+    {
+        "title": "Partitioning is most valuable, and it is stable and fairly easy to set up",
+        "name": "reviewer1715652",
+        "pros": "\"The product is expensive.\"",
+        "cons": "\"If we make a mistake on the development side, we can recover it. However, we don't have this capability with other databases.\n\n\""
+    },
+    {
+        "title": "Has good performance dynamics and is stable, scalable, and easy to use",
+        "name": "Prasad Bagaregari",
+        "pros": "\"Oracle Database is expensive.\n\n\"",
+        "cons": "\"It enables us to comply with our security guidelines, and it is automated.\""
+    },
+    {
+        "title": "Competitive pricing, stable, and scalable",
+        "name": "Arief Gunawan",
+        "pros": "\"The product could be cheaper.\"",
+        "cons": "\"The best features of Oracle Database Server are the security, high availability, and the Disaster Recovery solutions with the Data Guard. Specifically, on Autonomous Databases, the most valuable features are the automatic scaling and CPU scaling depending on the database workload. Today, the workload is normal and then suddenly the workload gets a spike.\""
+    },
+    {
+        "title": "The most valuable feature for me is the pluggable database because it provides database consolidation and the solution for utilizing your resource.",
+        "name": "Osama Mustafa",
+        "pros": "\"There are actually a lot more features for the Oracle Databases. It is almost impossible for a single person to know and give all the features. \"",
+        "cons": "\"Technical support is helpful.\""
+    },
+    {
+        "title": "Enables us to combine all the sophisticated architectures in the market",
+        "name": "Maurice Aelion",
+        "pros": "\"Sometimes they tell us we can't upgrade the database for now as there's a vulnerability Oracle couldn't find a solution for. \"",
+        "cons": "\"The Data Redaction feature is easy to use and we are quite happy with it.\n\n\""
+    },
+    {
+        "title": "It's pretty straightforward, it's easy to manage, and there's pretty good support for it.",
+        "name": "it_user27945",
+        "pros": "\"Sometimes, the patches supplied by Oracle to update the software do not work. \"",
+        "cons": "\"I found the ease of backup, partitioning, and robust indexing most valuable. The main feature of Oracle is the structure of the database. The way your backups are taken on the online backup system and the way it restores and handles partitioning of your data are also valuable. Its performance is great, and it is also very flexible.\""
+    },
+    {
+        "title": "One of the features that stands out to me is the Real Application Cluster. This gives us the ability to have active-active clustering functionality.",
+        "name": "it_user436020",
+        "pros": "\"It should have flexible licensing across different platforms. It has got different licensing models for Intel Power and SPARC servers.\"",
+        "cons": "\"On-prem, Oracle is the number one database technology.\""
+    },
+    {
+        "title": "Enables us to support applications",
+        "name": "Jeremy Lee",
+        "pros": "\"Oracle needs to improve its cluster technologies. They need to improve in the cluster technology using ARC due to the fact that sometimes people think that they have a redundant server when they are using ARC with the cluster and think that will increase the performance. In reality, if they are using ii with a big workload, sometimes the performance is not increasing, and can sometimes actually impacts it in such a way that there's some degradation in the performance. \"",
+        "cons": "\"The platform's security features and stability are commendable.\n\n\""
+    },
+    {
+        "title": "Has recovery options but pricing is expensive",
+        "name": "BINH NGUYEN THAI",
+        "pros": "\"They could provide ease of migration and competitive pricing for the database.\n\n\"",
+        "cons": "\"The scalability is very good, and it is stable.\""
+    },
+    {
+        "title": "It enables us to comply with our security guidelines",
+        "name": "reviewer2380635",
+        "pros": "\"The interface is not reliable because the GUI is old.\"",
+        "cons": "\"RDBMS with good performance and technical support. It's a scalable, stable, secure, and easy to implement solution that can be deployed both on cloud and on-premises.\""
+    },
+    {
+        "title": "Provides security, high availability, and Disaster Recovery solutions with Data Guard",
+        "name": "RaviKasibhatla",
+        "pros": "\"The usage and security are okay for Oracle Database, but its pricing is more expensive when compared to its competitors.\"",
+        "cons": "\"The solution can scale well.\""
+    },
+    {
+        "title": "Easy to use, stable, and offers good technical support",
+        "name": "AhmedElbadry",
+        "pros": "\"It takes a significant amount of time after submitting an initial SR with Oracle Tech Support before your case reaches a technical expert with whom you can actually work on the issue resolution. Before that, you have to deal with people who are not experts.\"",
+        "cons": "\"Oracle is a stable product and we plan to continue implementing it.\""
+    },
+    {
+        "title": "Good in-memory and Data Redaction features, scales well, and the support is fast",
+        "name": "reviewer1549332",
+        "pros": "\"The cost needs to be reduced because right now, all of our customers are asking us about how they can migrate to any open-source database.\"",
+        "cons": "\"The product provides high availability.\""
+    },
+    {
+        "title": "Great performance, very scalable, very stable, and easy backups",
+        "name": "Kevin Honde",
+        "pros": "\"The product must provide an autonomous database.\"",
+        "cons": "\"Oracle Database is the most widely accepted database, and it has built-in technical and security capabilities. It supports the new object in the database. The performance and security are very good, and it is user-friendly. There are a lot of people trained to use this solution which makes it simple to find assistance.\""
+    },
+    {
+        "title": "Great for building disaster recovery systems, very stable, and offers good scalability",
+        "name": "Arief Gunawan",
+        "pros": "\"Oracle Database could improve by making migration less difficult and having better integration. For example, having the ability to communicate, using native features, to different databases. Mostly connectivity to different databases, such as open-source databases or any other database.\"",
+        "cons": "\"Oracle is a good database with decent performance, which is fortunate because we are required to use this database for our ERP system. Even if we thought Oracle was the worst database in the world, we would still have to use it.\""
+    },
+    {
+        "title": "The enhancements to the PL/SQL language provide a way to secure data from SQL injection flaws.",
+        "name": "it_user420015",
+        "pros": "\"In my opinion, the pricing of all the additional tools that Oracle provides is very complicated. The pricing model is very unfriendly for the user, and for the web vendors.\"",
+        "cons": "\" The dashboard may be the best solution for intelligent data management, as well as business intelligence.\""
+    },
+    {
+        "title": "Has valuable security features, but they could provide ease of data migration",
+        "name": "Gichuru Riria",
+        "pros": "\"Technical support needs improvement.\"",
+        "cons": "\"One of the most valuable features of Oracle Database is the performance.\""
+    },
+    {
+        "title": "Has good scalability and is stable",
+        "name": "MOHAMMED SEHEN",
+        "pros": "\"Oracle Database's migration capabilities could be improved because it's very difficult. So even if you migrate where you host your data, be it on Windows SQL Server, there is a problem because migrating the package is highly complex. The technical support could also be faster. \"",
+        "cons": "\"As compared to SQL Server, Oracle Database performs better when you have a huge amount of data. We didn't face any problems when we had a huge amount of data. There were also no issues with importing/exporting and migrating the data.\""
+    },
+    {
+        "title": "Secure, scalable, stable, and easy to implement RDBMS, with good technical support",
+        "name": "Edward  Onyango",
+        "pros": "\"We faced some difficulties in the network configuration area. All these things can be fixed with the support of Oracle's networking team. We didn't face any other major problems.\n\nIts deployment can be easier. It should be easier to configure for a developer. If a developer is planning a database and trying to configure it, it should be easy for him because many times, we cannot directly get help from DBAs.\"",
+        "cons": "\"Especially with VMs, the solution can scale well.\""
+    },
+    {
+        "title": "Reliable, stable, and easily scalable",
+        "name": "reviewer1524876",
+        "pros": "\"The initial setup is a bit complex.\"",
+        "cons": "\"The most important features of Oracle Database are ease of use and high reliability. I also love the dynamic PL/SQL feature, which I use to generate custom and ad hoc reports.\n\n\""
+    },
+    {
+        "title": "Straightforward to install, stable, and scalable",
+        "name": "reviewer1442025",
+        "pros": "\"Oracle support is helpful, and they resolve all our issues, but sometimes the response to our clients isn't as prompt as we'd like.\n\n\"",
+        "cons": "\"The features that I have found most valuable are things like cluster setup and RAC One. We are using the main CQN and third party plugin support right now. We are relying on different languages support that we are getting from the Oracle side. It is one of the major areas in which Oracle excels compared to other databases.\""
+    },
+    {
+        "title": "Implementing a tiered storage strategy with Heat Map and Automatic Data Optimization features",
+        "name": "it_user437655",
+        "pros": "\"There are a lot of additional costs. That is the reason we are only leveraging for transactional related purposes, so that we do not spend so much on doing the same thing on Oracle. That is the reason we are looking for open source databases now.\"",
+        "cons": "\"I have experienced good performance from the solution.\""
+    },
+    {
+        "title": "It provides reliability, in terms of handling large volumes of data.",
+        "name": "it_user521754",
+        "pros": "\"Since the solution is from Oracle it tends to be complex when trying to integrate with other solutions.\"",
+        "cons": "\"Oracle Database is the best based on stability and high performance.\""
+    },
+    {
+        "title": "TDE advanced security is valuable as there are several options of different encryption algorithms.",
+        "name": "it_user420015",
+        "pros": "\"The solution could be cheaper.\"",
+        "cons": "\"The most valuable feature of Oracle Database is all the functionalities. When we write a code we sometimes have to create an explicit functionality to process the data that we want. At times we find that there is already existing functionality in data created by Oracle itself, it is helpful.\""
+    },
+    {
+        "title": "The solution provides high availability, but it should enable users to administer the database easily",
+        "name": "SS36",
+        "pros": "\"The integration can be made much easier for the Oracle tools, for example, Oracle Database or OPI. The integration sometimes can be a little complicated for us because we have to do a number of integrations with other tools, such as Oracle computation. The integration could be more streamlined and easier to work with.\"",
+        "cons": "\"The solution is stable and has good performance.\""
+    },
+    {
+        "title": "Built in security, user-friendly, and highly stable",
+        "name": "reviewer1367268",
+        "pros": "\"The licensing could be cheaper and clearer.\"",
+        "cons": "\"It's one of the leading databases on the market.\""
+    },
+    {
+        "title": "Good database with decent performance",
+        "name": "reviewer1382364",
+        "pros": "\"On the ERP side, they do not seem to be improving the on-premises version. They seem to want to push the cloud option on users.\"",
+        "cons": "\"It is user-friendly. Its performance and security are also very good. There are 300 million records for our one-year data, and we can easily query this data.\n\nYou can use Oracle Database as a source for easily integrating with different databases and applications. It supports Java platforms and other applications very well. It works with SAP products better than Microsoft SQL Server.\""
+    },
+    {
+        "title": "Secure, performs well, easy to install and has a good dashboard",
+        "name": "CarlosCastells",
+        "pros": "\"It should have more monitoring features. There should be features to be able to analyze the performance with a query. In Microsoft SQL Server, when you are running any stored procedure, if you want to analyze the performance, you just run the query analyzer. You can easily find out that something is missing in a joint condition, or clustering needs to be added because of a delay. I can't find such features in Oracle Database. They should be added.\"",
+        "cons": "\"You can scale the solution if you need to. Its scalability is good. \""
+    },
+    {
+        "title": "Good performance and scalability",
+        "name": "Emmanuel FOMUDE",
+        "pros": "\"The solution is a bit expensive.\"",
+        "cons": "\"It is easy to set up on their engineered systems.\""
+    },
+    {
+        "title": "Stable and scalable, recommended for formatted and structured data, and works well for a huge amount of data",
+        "name": "reviewer1491816",
+        "pros": "\"It needs to be more stable, as recently we have experienced some issues.\"",
+        "cons": "\"It is a reliable database warehouse solution that is transparent to the end user.\""
+    },
+    {
+        "title": "Reliable with good performance and very good stability",
+        "name": "reviewer1498107",
+        "pros": "\"The pricing is the one sticking point for the solution because it is very expensive.\"",
+        "cons": "\"This solution has the best performance, bar none.\""
+    },
+    {
+        "title": "The most valuable features for us are the cloud-like traits of ODB, grid computing with version 11g onward, live database, and Data Guard.",
+        "name": "it_user419103",
+        "pros": "\"The documentation needs improvement because as it is now, providing support is a headache.\"",
+        "cons": "\"Significant assistance in tuning both the migration process and the production database was provided by Oracle Consulting Services, which provided excellent and very professional advice.\""
+    },
+    {
+        "title": "The dynamic PL/SQL feature lets me generate custom and ad hoc reports",
+        "name": "Anup Babu Shrestha",
+        "pros": "\"Initial setup was complex because of the odd way the application used the database, the application vendor's conversion tools, and our stringent requirements.\"",
+        "cons": "\"The solution is very stable.\""
+    },
+    {
+        "title": "One of the best DBs for business-critical data and scaling for heavy requirements",
+        "name": "reviewer1593516",
+        "pros": "\"The solution is not easy to use and maintain. \"",
+        "cons": "\"I like that it's a robust product. It has very good features. One good feature is Oracle REX because, in SQL Server, we don't have that. SQL Server has something similar, but it's not the same stuff.\""
+    },
+    {
+        "title": "Optimal performance, seamless install, and highly stable",
+        "name": "Eva Kimathi",
+        "pros": "\"It's not very user-friendly, and it's a little complex. Another issue that I don't like is the licensing complexity.\"",
+        "cons": "\"Oracle Database is very flexible.\n\""
+    },
+    {
+        "title": "A stable and scalable solution with high performance",
+        "name": "Omar_Ismail",
+        "pros": "\"The price of the Oracle Database should be cheaper.\"",
+        "cons": "\"The concurrency, consistency, and security features are the most valuable. It is also a very robust solution.\""
+    },
+    {
+        "title": "Helpful functionally, good support, and reliable",
+        "name": "reviewer1782720",
+        "pros": "\"There are plenty of options and features in this solution, but they are, somehow, not being used very well. Therefore, training and support should be increased and improved for this solution.\n\nThey can make people aware of how to make proper use of their server so that people can optimize it because its cost is just too much. They can provide training on the policies and procedures to be used for archiving and all such things.\n\nThere should be some kind of segregation in licensing. With a full license, all options should be available. There should also be a basic license with limited functionalities. This kind of basic license would be useful for us because we don't use most of the functionalities.\"",
+        "cons": "\"I've never faced any stability issues with the product. I don't recall any bugs, glitches, or crashes. I'd say it's fairly stable and shouldn't cause anyone issues in that regard.\""
+    },
+    {
+        "title": "A stable solution which performs well and is suitable for enterprise applications",
+        "name": "Petr Bunka",
+        "pros": "\"It could be slightly more intuitive, but other than that, we really like it as a solution.\"",
+        "cons": "\"It is stable, and its performance is good. Its interface is also fine.\""
+    },
+    {
+        "title": "A leading database that's stable and easy to set up",
+        "name": "reviewer1489539",
+        "pros": "\"Its security is good, but it could be more secure.\"",
+        "cons": "\"The autonomous database simplifies everything.\""
+    },
+    {
+        "title": "Good performance, good security, and user-friendly",
+        "name": "reviewer1488372",
+        "pros": "\"Once you start with Oracle you become locked into it. \"",
+        "cons": "\"Oracle is somewhat user-friendly, and most customization or integration with Oracle-related projects is simple.\""
+    },
+    {
+        "title": "Stable, flexible, and very user-friendly",
+        "name": "it_user1215906",
+        "pros": "\"There are good dashboards and other features, but it was previously included in licensing. They are now charging for each and every feature. It was previously bundled.\"",
+        "cons": "\"The solution is stable.\""
+    },
+    {
+        "title": "Easy to set up on their engineered systems, but the support needs improvement and they are pricing themselves out of the market",
+        "name": "reviewer1264416",
+        "pros": "\"Technical support quality has dropped recently. They aren't as helpful or responsive as they used to be. \"",
+        "cons": "\"The solution is very easy to use in general.\""
+    },
+    {
+        "title": "Reliable solution that is transparent to the end users",
+        "name": "Alain Orlanes",
+        "pros": "\"I would like to see more integration with other databases and the cloud as well as Microsoft's Office 365.\"",
+        "cons": "\"The performance and reliability are the best features of the Oracle Database.\""
+    },
+    {
+        "title": "Good performance, stability, and scalability, but the documentation needs to be improved",
+        "name": "Kevin Slack",
+        "pros": "\"The client-side of Oracle Database could improve. The client graphic user interface works on Java and sometimes it freezes, these should be fixed.\"",
+        "cons": "\"The ease of use has been great.\""
+    },
+    {
+        "title": "RAC clustering allowed us to improve performance and provided additional redundancy",
+        "name": "it_user219420",
+        "pros": "\"The product is pricey and expensive. \"",
+        "cons": "\"The database performance. We can optimise the database for authorising expenditure and other resource-heavy functions.\""
+    },
+    {
+        "title": "Stable solution for running ERP software",
+        "name": "Irad Dukad",
+        "pros": "\"They could improve the storage and network overhead. \"",
+        "cons": "\"Scalable and stable database platform. Setting it up was straightforward.\""
+    },
+    {
+        "title": "A robust multi-model database management system",
+        "name": "Pedro Simoes",
+        "pros": "\"We'd like for its price to be a bit lower, both for licensing and support. As it is a top-of-the-line product, it's a bit expensive.\"",
+        "cons": "\"The command interface is very user-friendly. The required commands are not complicated and we are able to easily access the root system.\n\n\""
+    },
+    {
+        "title": "Flexible, with helpful features such as Application Clusters and Data Guard",
+        "name": "reviewer1458435",
+        "pros": "\"We believe that the usability could be improved, especially within the data lakehouse. We found content management to be a little bit more simpler within the GUI part.\n\n\"",
+        "cons": "\"The thing two things that I like most about Oracle Database are its scalability and performance.\n\n\""
+    },
+    {
+        "title": "A robust solution with valuable concurrency, consistency, and security features",
+        "name": "reviewer1449669",
+        "pros": "\"Frankly speaking, Oracle Database is very expensive.\"",
+        "cons": "\"The stability has been good so far. It's reliable. \""
+    },
+    {
+        "title": "Easy to use, relatively straightforward to implement and very stable",
+        "name": "Ricardo Tinga",
+        "pros": "\"The pricing needs to be improved. \"",
+        "cons": "\"Offers a lot of backup security and is very powerful.\""
+    },
+    {
+        "title": "The advantage of using Oracle's RDMS solution is that it is integrated with Oracle's other products, including our ERP and EPM solutions.",
+        "name": "Adnan Nasir",
+        "pros": "\"The monitoring system is not very user friendly and could include a graphic interface.\"",
+        "cons": "\"It's extremely easy to use and the performance is great.\""
+    },
+    {
+        "title": "It has had a multiple-concurrent-user control system from the very beginning.",
+        "name": "it_user521868",
+        "pros": "\"The integration could be improved. If you are integrating with other Oracle products, it is fine, however, if your goal is to integrate with third-party products, Oracle isn't as good. \"",
+        "cons": "\"Using the product, we make less mistakes, are more organized and faster than if we did it any another way.\""
+    },
+    {
+        "title": "All queries see a read consistent view of the database so that readers do not block writers and vice versa. I've encountered bugs with the implementation of optional features.",
+        "name": "it_user431076",
+        "pros": "\"There are a lot of bugs in the Oracle Database, and it would be better if the bugs would be solved more quickly than they are today.\"",
+        "cons": "\"The interface is user-friendly.\""
+    },
+    {
+        "title": "Good support, good performance, and easy to implement",
+        "name": "Mudasir Shafi",
+        "pros": "\"Oracle is not easy to integrate with other systems, which is something that should be improved.\"",
+        "cons": "\"You can scale the solution without any issues.\""
+    },
+    {
+        "title": "The autonomous database simplifies patching making this a strong product",
+        "name": "Adil Fouari",
+        "pros": "\"The solution is very, very expensive. This keeps it as a niche product.\"",
+        "cons": "\"From a database product perspective, I would say, they're good in what they provide. There's not much concern.\""
+    },
+    {
+        "title": "Good dashboards, feature-rich, and integrates well with other Oracle products, but it's expensive",
+        "name": "TanveerAmir",
+        "pros": "\"If their database encryption features could come in bytes, that would be a major improvement. They should bring the encryption model to their standard databases as well.\"",
+        "cons": "\"It has automatic memory management capability and large file capability.\""
+    },
+    {
+        "title": "Offers high availability and good third-party integrations, but is very expensive",
+        "name": "reviewer1034394",
+        "pros": "\"The Oracle Database could improve on integration with other infrastructure systems like Active Directory.\"",
+        "cons": "\"One of the most valuable aspects of Oracle Database is the maturity of the solution.\""
+    },
+    {
+        "title": "Quick to deploy, reliable, and scalable",
+        "name": "reviewer929742",
+        "pros": "\"As a database, the solution has been number one from the beginning.\"",
+        "cons": "\"The features should be communicated to end users in the proper way.\""
+    },
+    {
+        "title": "High performance, reliable, and scalable",
+        "name": "Arsen  Ghulyan",
+        "pros": "\"The scalability is quite good.\"",
+        "cons": "\"They should be putting more emphasis on the Windows platform. Usually, they run very well on the Linux platform, however, their performance on Windows is a little bit lower quality.\""
+    },
+    {
+        "title": "Easy to use with good performance and very good integrations",
+        "name": "Muhammad Asif Ashraf",
+        "pros": "\"I love the performance tuning feature of Oracle Database because it provides hints and indexing, which are very valuable. Some of its other valuable features are its rack, record key vaults, and backup compression. \"",
+        "cons": "\"Oracle is very expensive. So if I suggest Oracle to a client, they'll often say it's too costly.\n\n\""
+    },
+    {
+        "title": "We can optimize the database for authorizing expenditure and other resource-heavy functions",
+        "name": "it_user1439589",
+        "pros": "\"The solution is very stable. \"",
+        "cons": "\"The quality of technical support could be better. They could respond faster.\""
+    },
+    {
+        "title": "All our financial data, as well as sales, revenue and all other data is there, and it's easily accessed.",
+        "name": "it_user436032",
+        "pros": "\"It's powerful and fast, and the backup system is wonderful.\"",
+        "cons": "\"Even if you have backup discs and never use Data Guard, you still have to pay for a license for it.\""
+    },
+    {
+        "title": "It provides the ability to have portability for all the various databases, making things a lot more flexible in terms of availability and shortening the time of upgrades.",
+        "name": "it_user417087",
+        "pros": "\"It's a secure market leader.\"",
+        "cons": "\"The consumption of memory and the client memory has been increased exorbitantly in the most recent past.\""
+    },
+    {
+        "title": "Stable and scalable database platform with a straightforward setup",
+        "name": "reviewer1788699",
+        "pros": "\"it is very easy to use the product.\"",
+        "cons": "\"Customer support could be faster, you currently have to write your issue to them and then they will get back to you after 24-hours.\""
+    },
+    {
+        "title": "User-friendly, versatile, and offers huge ROI",
+        "name": "reviewer1715586",
+        "pros": "\"The most valuable feature of Oracle Database is its responsiveness.\"",
+        "cons": "\"The price of the solution should be lower.\""
+    },
+    {
+        "title": "Powerful functionality, performs well and highly scalable",
+        "name": "reviewer936300",
+        "pros": "\"What is most valuable with the Oracle Database is the performance.\"",
+        "cons": "\"Oracle Database could improve security to make the solution better in the future.\""
+    },
+    {
+        "title": "Constantly innovating with good performance and reliability",
+        "name": "Santosh Kurakula",
+        "pros": "\"The solution is scalable.\"",
+        "cons": "\"The interface is easy to use.\""
+    },
+    {
+        "title": "Offers excellent backup security, is stable and powerful",
+        "name": "Florent ADODO",
+        "pros": "\"Better integration with other databases would be an improvement.\"",
+        "cons": "\"There is a lot of functionality in Oracle Database. The reports and the GUI are good.\""
+    },
+    {
+        "title": "Flexible and easy to use with good performance",
+        "name": "KopanoRamaphoi",
+        "pros": "\"If Oracle Database could have more build-in features from some of their other products it would be good.\"",
+        "cons": "\" The integration is a good aspect of Oracle.\""
+    },
+    {
+        "title": "We are more organized and make less mistakes using it, but it is very expensive",
+        "name": "David Gubly",
+        "pros": "\"CRM could be improved.\"",
+        "cons": "\"You can install Oracle Database software, patching, and create/configure Oracle databases in silent using scripts\""
+    },
+    {
+        "title": "The Active Data Guard feature provides the comfort of routing reporting requirements to a standby site while at the same time redoing the application.",
+        "name": "it_user473751",
+        "pros": "\"\u200bUpgrade is the most critical phase for the lifecycle of a database. In order to be sure that the migration succeeds, you need to be up-to-date. Therefore, regularly install the patchset and security updates.\"",
+        "cons": "\"It's a very stable solution, especially with the hot backup.\""
+    },
+    {
+        "title": "Stable and flexible, easy to use with a user-friendly interface",
+        "name": "Ayman Said",
+        "pros": "\"Needs educational content that would help the individual to be able to work in a real life situation and scenarios.\"",
+        "cons": "\"One of the most valuable features is the stability. \""
+    },
+    {
+        "title": "Great data replication with good scalability and a straightforward setup",
+        "name": "reviewer1494180",
+        "pros": "\"Oracle Database could be improved by adding more automation. \"",
+        "cons": "\"They continue to improve and are always introducing new features.\""
+    },
+    {
+        "title": "Good database with good processing and very good stability",
+        "name": "Reegan Varkey",
+        "pros": "\"More integration, in my opinion, would be beneficial.\"",
+        "cons": "\"I like that it's stable. What's good is that Oracle manages the infrastructure. We have got better because they update the server by default or whenever it's needed. They try to fix it server by server because of their own support plans.\""
+    },
+    {
+        "title": "A multiplatform solution offering high availability and improved performance",
+        "name": "Gene Deans",
+        "pros": "\"It could be cheaper and easier to manage. Support could also be better. Performance could be better. Sometimes testing impacts the prediction performance. We have a complex server that serves both prediction and testing. Sometimes testing applies to many other deployments that impact the service provided. It's a problem for our company.\"",
+        "cons": "\"The solution in my experience has been stable.\""
+    },
+    {
+        "title": "Containers and pluggable databases give us more control of resource levels and planning",
+        "name": "it_user522093",
+        "pros": "\"The solution could be more scalable. \"",
+        "cons": "\"There's a good online community that can help users troubleshoot issues.\""
+    },
+    {
+        "title": "\u200bThe high availability and the performance are the most valuable features.\u200b",
+        "name": "it_user521886",
+        "pros": "\"The pricing could be better.\"",
+        "cons": "\"The solution is definitely very good for our consultancy on payroll and human resource.\""
+    },
+    {
+        "title": "You can tune it and customize it the way that you need it. I find that it is stable.",
+        "name": "it_user450624",
+        "pros": "\"Oracle could improve the finance system.\"",
+        "cons": "\"We use the relational databases for government contracts.\""
+    },
+    {
+        "title": "The most valuable features for us are its capability and reliability. It's dependable, rarely going down or exhibiting instabilities.",
+        "name": "it_user419334",
+        "pros": "\"It is expensive.\"",
+        "cons": "\"Its performance is good. It is also stable and scalable.\""
+    },
+    {
+        "title": "Responsive support, simple deployment, and highly stable",
+        "name": "Edgar Orare",
+        "pros": "\"Its administration side is very difficult. To install Oracle Database, you need to have some prior knowledge. You must learn their commands. I was new to this, so I found some difficulty in it. Its installation should be easier.\n\nIt is expensive, and it should be cheaper.\"",
+        "cons": "\"It is a stable product. In terms of recovery, if there is a failure or some kind of fault, we can recover the data. We do not lose it.\""
+    },
+    {
+        "title": "Oracle Database is Zero Down Time and Zero Data loss at any given situation",
+        "name": "Laksiri Bala",
+        "pros": "\"The queries performance could improve compared to other products.\"",
+        "cons": "\"The most valuable features are stability, its backup and recovery, and its performance.\""
+    },
+    {
+        "title": "Stable, with good technical support, but very expensive",
+        "name": "reviewer1027761",
+        "pros": "\"I am not very satisfied with the support at times. You don't always get the support at the time you want and need it.\"",
+        "cons": "\"Stable solution with analytic and partitioning functions that work well.\""
+    },
+    {
+        "title": "Performance tuning feature provides useful hints and indexing",
+        "name": "VarunMohta",
+        "pros": "\"Technical support and how they treat their customers need to be improved.\"",
+        "cons": "\"I like the query part and the optimization of the query to get the data. I also like its speedy recovery and stability. In the security part, the loss of data is minimal for any crashes that could happen. First of all, it might not occur, or if it happens, the recovery of the data is smoother than others.\""
+    },
+    {
+        "title": "Stable, reasonably priced, and straightforward to set up",
+        "name": "reviewer1616118",
+        "pros": "\"It would be better if the administrator part could be simplified. At the moment, we need specialized skills for managing or administering Oracle Database. If that is simplified, my juniors or basic database engineers could use it. Right now, we need specific administrative skills to manage the Oracle Server.\"",
+        "cons": "\"Optimization of databases, RAC, Data Guard Replication with Data Guard and RAC Database are the best features. \""
+    },
+    {
+        "title": "Is powerful, fast, and easy to install",
+        "name": "Muammer \u00f6zt\u00fcrk",
+        "pros": "\"There is a new version of Oracle and Database Firewall, version 20, for which I would be interested in receiving training.\"",
+        "cons": "\"Technical support is great.\""
+    },
+    {
+        "title": "Reliable, secure, good support, and it is easy to set up",
+        "name": "Anand Sanghvi",
+        "pros": "\"If you want to scale, it will get even more expensive.\"",
+        "cons": "\"This solution is very reliable. The performance is great.\n\n\""
+    },
+    {
+        "title": "Simple to use and stable, with detailed documents for easy install",
+        "name": "reviewer1471128",
+        "pros": "\"It would be nice if creating indexes and other small, repetitive tasks could be automated.\n\n\"",
+        "cons": "\"A very reliable solution. \""
+    },
+    {
+        "title": "Streamlines data retrieval and incorporates many security features",
+        "name": "it_user522141",
+        "pros": "\"Digital support of the product could be improved. \"",
+        "cons": "\"The database is very secure, robust, and scalable. It has all the features that you need, such as disaster recovery, replication, backup, etc. It comes with all the features.\""
+    },
+    {
+        "title": "It works well in Solaris in a UNIX system.",
+        "name": "it_user521571",
+        "pros": "\"When it comes to Oracle, the only complaint that I have is their support. For business-critical cases, finding support is a little bit difficult because of the timezone difference. They should provide faster support to resolve issues on time.\"",
+        "cons": "\"We find technical support to be very responsive. They briefly describe everything on phone and we handle the operations. I'd say we've been more than satisfied with their level of service. They're quite helpful and knowledgeable.\""
+    },
+    {
+        "title": "We're happy about how if one of the Oracle nodes in the cluster goes down, the others keep running.",
+        "name": "it_user436200",
+        "pros": "\"We don't really find that any features are lacking.\"",
+        "cons": "\"The feature I find most valuable about this solution is the reliability. \""
+    },
+    {
+        "title": "11g has helped increase the performance of our database. We're also able to maintain it easier.",
+        "name": "it_user435990",
+        "pros": "\"The product is very expensive.\"",
+        "cons": "\"It is flexible, scalable, and a true Enterprise RDBMS.\""
+    },
+    {
+        "title": "For me as a DBA, the most important features are the partitioning option, active data guard, and security options.",
+        "name": "it_user435033",
+        "pros": "\"Auditing could be improved, especially granular auditing. The unified audit trail in 12c is great, however its extraction in a highly busy environment is quite a challenge.\"",
+        "cons": "\"Its security and reliability are most valuable.\""
+    },
+    {
+        "title": "It gives us 99% uptime while reliably capturing all the data that's important to our business.",
+        "name": "it_user419178",
+        "pros": "\"They should reduce its price and provide faster support.\"",
+        "cons": "\"Oracle Database is very stable. In terms of stability and performance, Oracle is super. On the database side, Oracle is number one in our tests.\""
+    },
+    {
+        "title": "In our experience, Oracle Database is highly stable, which is the best part of it.",
+        "name": "it_user419052",
+        "pros": "\"The price could be better. Oracle Database could also be easier to scale. \"",
+        "cons": "\"The solution is a reliable database. \""
+    },
+    {
+        "title": "Serve your business confidently and help it grow with Oracle RDBMS.",
+        "name": "it_user98628",
+        "pros": "\"Support is not available when one encounters problems. \"",
+        "cons": "\"The solution has great security. \""
+    },
+    {
+        "title": "Responsive, highly stable, but expensive",
+        "name": "Victor Hugo Morales Vivas",
+        "pros": "\"Lacks  features that would improve database performance.\"",
+        "cons": "\"When we are not able to solve a problem we immediately contacted Oracle support team to help us solve it.\""
+    },
+    {
+        "title": "High performance, reliable, and scalable",
+        "name": "ABDURRAHIM",
+        "pros": "\"If you just install a database, it's easy but if you install some other programs it can be a little bit longer and difficult to install. \"",
+        "cons": "\"The feature that I worked with and that excited me the most is one that is not available in other databases, and it involves the use of Java Runtime.\""
+    },
+    {
+        "title": "Helpful support, reliable, and scalable",
+        "name": "reviewer1214358",
+        "pros": "\"The integration with other vendor solutions needs improvement. It is difficult to connect to other hardware.\"",
+        "cons": "\"Oracle Database is fast and easy to use.\""
+    },
+    {
+        "title": "Easy-to-use interface, simple to deploy, and can be customized to your processes",
+        "name": "Amgad Ismail",
+        "pros": "\"Cheap and easy solutions for startups need to be made available.\"",
+        "cons": "\"Oracle enables us to handle more than a million daily transactions.\""
+    },
+    {
+        "title": "Beneficial reports, functional GUI,  and helpful support",
+        "name": "reviewer1206861",
+        "pros": "\"The price tag is very high and most cannot afford it.\"",
+        "cons": "\"A scalable solution with straightforward initial setup.\""
+    },
+    {
+        "title": "\ufeffThe integration is a good aspect but the CRM could be improved.",
+        "name": "Ronan-Cunali",
+        "pros": "\"The licensing model is complicated and could be improved.\"",
+        "cons": "\"The solution is scalable.\""
+    },
+    {
+        "title": "It provides Exadata, the engineered system where you can achieve maximum performance",
+        "name": "it_user457482",
+        "pros": "\"The solution could have better security and integration. \"",
+        "cons": "\"It's very reliable.\n\n\""
+    },
+    {
+        "title": "Mature product means there are many who have the skills to use it",
+        "name": "it_user521766",
+        "pros": "\"The most valuable feature is that it is a complete product with all of the functionality that you need, and there is no need for any special features.\"",
+        "cons": "\"The solution is extremely stable.\""
+    },
+    {
+        "title": "A stable solution for data storage but has poor support",
+        "name": "MahmoudMohamed1",
+        "pros": "\"The pricing of the product could be better. It's too expensive right now. They need to bring down the cost.\"",
+        "cons": "\"I am not an IT person. I am an end-user of this solution, and based on my experience, it is comfortable to work with. Everything is okay, and the data is timely available. It can also be easily integrated.\""
+    },
+    {
+        "title": "Stable, scalable, database; the heart of the environment",
+        "name": "KaranDamania",
+        "pros": "\"Their local support can be better. Local support is a challenge in Africa for all IT companies.\"",
+        "cons": "\"It gives DB consistency, supports disaster recovery (DR), is tunable, and handles large DB sizes.\""
+    },
+    {
+        "title": "Stable and easy to install",
+        "name": "Lawrence  Katuruza",
+        "pros": "\"The compression does not give much value-add or provide performance benefits as was highlighted.\"",
+        "cons": "\"Partitioning is the most valuable feature.\""
+    },
+    {
+        "title": "Reliable, scales well, and easy to install",
+        "name": "reviewer1715061",
+        "pros": "\"It would be useful if I could connect to an expert for one-on-one help.\"",
+        "cons": "\"Oracle Database is stable. I'm quite happy with the performance.\""
+    },
+    {
+        "title": "A stable multi-model database management system",
+        "name": "Alvaro Valdes",
+        "pros": "\"The price should be lower.\"",
+        "cons": "\"The interface of Oracle Database is very workable and easy to use.\""
+    },
+    {
+        "title": "Reliable and has responsive technical support",
+        "name": "reviewer1566654",
+        "pros": "\"The monitoring of processes that are executing could be better. I find it very difficult to find processes that had been in a suspended state in order to stop them.\"",
+        "cons": "\"Oracle Database is easy to use.\""
+    },
+    {
+        "title": "Stable, has a good user interface, and is scalable",
+        "name": "reviewer1162305",
+        "pros": "\"I would also like to see more features added and the stability needs improvement.\"",
+        "cons": "\"The initial setup isn't too difficult.\""
+    },
+    {
+        "title": "The solution is definitely very good for our consultancy on payroll and human resource.",
+        "name": "Gustavo Guti\u00e9rrez",
+        "pros": "\"The main issue with Oracle is the maintenance required. \"",
+        "cons": "\"The latest version is a lot more organized than the previous version. We can check out the regular files and our dictionaries and our created files, which are a little better organized right now.\""
+    },
+    {
+        "title": "A good source for relational databases",
+        "name": "it_user811680",
+        "pros": "\"The previous version was a little clunky. \"",
+        "cons": "\"The features that we find most valuable are Data Pump, GoldenGate, and the RMAN (Recovery Manager).\""
+    },
+    {
+        "title": "Oracle 12c, A Cloud Ready Database",
+        "name": "it_user158715",
+        "pros": "\"This product would be improved with Support Services for more production access.\"",
+        "cons": "\"It stores a lot of data in a short time.\""
+    },
+    {
+        "title": "Some of the valuable features are Oracle Wallet and Data Guard. We are also using the GRANT feature for high scalability.",
+        "name": "it_user522111",
+        "pros": "\"Integration with big data would be helpful since we are planning to load a lot of big data.\"",
+        "cons": "\"The features that I have found most valuable are its cloud and API features.\""
+    },
+    {
+        "title": "It has given us the ability to scale.\u200b I would like to see lower costs.",
+        "name": "it_user515451",
+        "pros": "\"Their support and price could both be improved.\"",
+        "cons": "\"Oracle offers good security and supports customization. \""
+    },
+    {
+        "title": "Some features enable cloud technology. Technical support gets a high rating.",
+        "name": "it_user521796",
+        "pros": "\"Oracle is a costly product, and it requires a lot of resources.\"",
+        "cons": "\"What I like most is the real application security. \""
+    },
+    {
+        "title": "Multitenant Architecture reduces operating cost and it could lead to license cost savings depending on the aggregation of DBs.",
+        "name": "it_user489099",
+        "pros": "\"The initial setup can be simplified.\"",
+        "cons": "\"Oracle Database is easy to use.\""
+    },
+    {
+        "title": "The amount and complexity of data it can handle is really great, especially in agribusiness.",
+        "name": "it_user436206",
+        "pros": "\"Security is an area that needs to be improved. \"",
+        "cons": "\"I like the backend robustness of the database, and the security capabilities inherently that are in the product itself.\""
+    },
+    {
+        "title": "I like its ability to be tuned so that we can gather data and our developers can build their code in it without too much hassle.",
+        "name": "it_user436143",
+        "pros": "\"The adaptability to various APIs is something that needs to be improved.\n\n\"",
+        "cons": "\"The solution has an endless capacity.\""
+    },
+    {
+        "title": "The flash drive recovery feature is the most valuable aspect of ODB for us.",
+        "name": "it_user419319",
+        "pros": "\"The licensing formulation is too complicated.\"",
+        "cons": "\"The technical support is good, we have responses to our problems.\""
+    },
+    {
+        "title": "The installation process has improved remarkably since the 80's when I started working with it.",
+        "name": "it_user419082",
+        "pros": "\"Oracle Database required some time to learn the basics and how it works. However, this is typical for database solutions.\"",
+        "cons": "\"The most valuable features of Oracle Database are the Data Guard because it does replication and the integration layer, such as GoldenGate.\""
+    },
+    {
+        "title": "A stable and scalable solution with good performance, but it is expensive and difficult to install and administer without prior knowledge",
+        "name": "Yasin Bin Wasim",
+        "pros": "\"There is a lot that can improve in Oracle Database. For example, it could be more user-friendly and should be easier to integrate into the cloud.\"",
+        "cons": "\"The technical support from Oracle is good and responsive. I used them for security updates and patches.\""
+    },
+    {
+        "title": "Scalable and stable but queries performance needs improvement",
+        "name": "reviewer1322280",
+        "pros": "\"I like the enterprise features as well as the stability.\"",
+        "cons": "\"I believe that the simplicity of installation and configuration for logging in to Microsoft and PostgreSQL could be improved.\""
+    },
+    {
+        "title": "Easy to scale, excellent stability with good performance",
+        "name": "reviewer1468959",
+        "pros": "\"I have found the most valuable feature to be the performance. We have a large database in my company and there is not likely a solution that has the performance we need.\"",
+        "cons": "\"Oracle Database could improve by providing access and integration with containers.\""
+    },
+    {
+        "title": "I consider one of the top features to be the concurrency and consistency model that allows many simultaneous users with little or no locking.",
+        "name": "it_user420792",
+        "pros": "\"The solution is very stable with the performance being very reliable. \"",
+        "cons": "\"The security of the solution could be improved. It's an area that isn't as good as it could be.\""
+    },
+    {
+        "title": "It allows us to support large applications and to also tune them properly.",
+        "name": "it_user436002",
+        "pros": "\"The performance of the solution is impeccable.\"",
+        "cons": "\"While working with 20-30 terabytes is okay using this solution, if you have Big Data, data that's much bigger than that, you will run into issues. It's a problem I have right now. They should support much more data.\""
+    },
+    {
+        "title": "Without this product, it can be difficult for business users to access Hadoop without significant IT support, but the configuration should be improved as the product is refined.",
+        "name": "it_user347580",
+        "pros": "\"Oracle Database is highly scalable.\"",
+        "cons": "\"I have contacted the support from Oracle and they are sometimes slow.\""
+    },
+    {
+        "title": "Its reliability and security are the features most valuable for us.",
+        "name": "it_user412296",
+        "pros": "\"Oracle Database is a stable solution.\"",
+        "cons": "\"The user interface could be better.\""
+    },
+    {
+        "title": "The most valuable feature for us is certainly the scalability of the DB as we need capabilities for multiple terabytes of data.",
+        "name": "it_user417105",
+        "pros": "\"A really large and very useful language to process data.\"",
+        "cons": "\"An area for improvement would be query performance - in some cases, it's really, really hard to make it run faster.\""
+    },
+    {
+        "title": "Stable relational database management system with good partitioning and analytic functions",
+        "name": "Christian Niembs",
+        "pros": "\"It seems to work.\"",
+        "cons": "\"I can only remember that setting up Oracle Database was a pain because it uses Java.\""
+    },
+    {
+        "title": "A stable and scalable database solution with a useful query optimization feature",
+        "name": "reviewer938061",
+        "pros": "\"The main feature of Oracle Database is its performance.\"",
+        "cons": "\"Oracle could improve by providing better integration with other solutions, such as Angular platforms.\""
+    },
+    {
+        "title": "A stable and scalable solution which is easy to install and offers great support",
+        "name": "Florent NOPOUDEM",
+        "pros": "\"I like the design of the database because it works well. I also like the stability of the solution.\"",
+        "cons": "\"The licensing cost could be better.\""
+    },
+    {
+        "title": "Easy to use, stable, and offers great technical support",
+        "name": "AlaaMedhat",
+        "pros": "\"I like the performance power and the interface of the solution.\n\n\"",
+        "cons": "\"Problems can arise if there are too many requirements or a lot of details which must be applied to connect the software to the database.\""
+    },
+    {
+        "title": "A reliable solution with great performance",
+        "name": "reviewer1598736",
+        "pros": "\"Technical support has been helpful so far.\"",
+        "cons": "\"The installation of the product could be designed to be simpler.\""
+    },
+    {
+        "title": "Extremely reliable with very high system resilience",
+        "name": "reviewer1505100",
+        "pros": "\"The most valuable feature of Oracle Database is its stability - one can trust that the database is always working.\"",
+        "cons": "\"The initial setup was very complex - best case, it takes between four and six hours to set up.\""
+    },
+    {
+        "title": "Feature-rich, very secure, robust, and scalable",
+        "name": "reviewer1455528",
+        "pros": "\"Oracle Database has many useful functions and features suitable for big programs and complex business models.\n\n\"",
+        "cons": "\"Oracle Database could be easier to use.\n\n\""
+    },
+    {
+        "title": "Robust, stable, and easy to use",
+        "name": "reviewer1279539",
+        "pros": "\"Overall, from a technical perspective, the solution is very strong.\"",
+        "cons": "\"The database environment needs to be cheaper. By making it less expensive, Oracle would be more competitive with other database vendors.\""
+    },
+    {
+        "title": "Whenever we need to add new space it is easy to extend and increase our performance",
+        "name": "reviewer898881",
+        "pros": "\"The ease of migration between databases. \"",
+        "cons": "\"The connection can be slow due to the distance from the provider. \""
+    },
+    {
+        "title": "High availability using real application clusters",
+        "name": "it_user850737",
+        "pros": "\"It's fast compared to other databases.\"",
+        "cons": "\"The initial setup should be improved.\""
+    },
+    {
+        "title": "The most valuable features are security and stability.",
+        "name": "it_user521847",
+        "pros": "\"I really appreciate the performance of Oracle.\nWhen using AWR records you can really see where a problem is. You can get advice about which queries are the heaviest for the database. You also can see advice for indexes. If an index isn't used, then you can just remove it to improve performance. This is a really good feature. Also, the JDBC connection is quite good. Finally, the object types are really good, the types of tables you can use in PL/SQL are also really helpful.\"",
+        "cons": "\"Oracle Database has high-level features that are very good.\""
+    },
+    {
+        "title": "A combination of stability, scalability and transportability.",
+        "name": "it_user522009",
+        "pros": "\"The solution could improve security.\"",
+        "cons": "\"The most valuable features of this solution are the cost optimizer and partition exchanges.\""
+    },
+    {
+        "title": "It's a database that's easy to recover if you need ways to restore and recover.",
+        "name": "it_user436440",
+        "pros": "\"The cost of this solution needs to be improved.\"",
+        "cons": "\"It is user-friendly. It didn't take me much time to learn it. \""
+    },
+    {
+        "title": "It allows you to drill down to a very small level inside the database and return a result that you want. The way it tries to maintain all the data integrations is not necessary.",
+        "name": "it_user436107",
+        "pros": "\"There are a few errors for which Oracle doesn't provide detailed information. It doesn't clearly indicate the columns or lines for which we are getting an error. It would be better if they provide more detailed information for such errors.\"",
+        "cons": "\"There is a lot of information available on the internet, so problems can easily be fixed.\""
+    }
+]

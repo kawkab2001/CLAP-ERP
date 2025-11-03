@@ -1,0 +1,482 @@
+[
+    {
+        "title": "Centralizes our enterprise-wide functions but could benefit from cloud migration",
+        "name": "James Balbach",
+        "pros": "\"It provides us with a centralized location to have an enterprise-wide GL and other module solutions.\"",
+        "cons": "\"We are moving to the cloud and are looking at the cloud version of it for the cost of ownership and a more modernized integrated platform. \""
+    },
+    {
+        "title": "Dynamic reporting capabilities enhance data-driven business insights",
+        "name": "Muhammad-Saad",
+        "pros": "\"We can drill down from the sales order line to the invoice and payment at the detailed level. \"",
+        "cons": "\"Oracle E-Business Suite should be more detailed and user-friendly. \""
+    },
+    {
+        "title": "Offers a wide range of functionalities for large enterprises but system requires expertise to implement and configure",
+        "name": "Nandan Gopalakrishna",
+        "pros": "\"Oracle is a decent, robust solution that has been tested and used for many years. It can do everything.\"",
+        "cons": "\"The main challenge has been the annual maintenance cost. \""
+    },
+    {
+        "title": "The change to the configurability of the UI is one of the most valuable features in EBS 12.",
+        "name": "Bill Dunham",
+        "pros": "\"Its drag-and-drop features make data distribution a breeze.\n\"",
+        "cons": "\"It is on the expensive side.\n\""
+    },
+    {
+        "title": "Offers valuable finance tools",
+        "name": "HodaAboul Fotouh",
+        "pros": "\"It's a scalable product.\"",
+        "cons": "\"The initial setup is complex.\""
+    },
+    {
+        "title": "Helpful technical support, strong integration capabilities, and is easy to use",
+        "name": "FazalRehman",
+        "pros": "\"Before, we used a lot of manpower in our operations, in the backend, but this is a service. We have eliminated some unnecessary processes.\"",
+        "cons": "\"It's not easy for people without technical knowledge to understand how to implement it.\""
+    },
+    {
+        "title": "Stable infrastructure and reduced  manual processes by streamlining  operations",
+        "name": "Krisada R.",
+        "pros": "\"Oracle EBS adapts to our business rules, so we don't have to change them, whereas SAP is rigid. We need to change our business rules to implement SAP. Oracle's reporting is also excellent and it's easier for our technical team to customize the solution compared to SAP, Microsoft Dynamics, and other products.\n\n\"",
+        "cons": "\"Oracle is easy to implement at a new organization like ours, but it might be more challenging for an established organization with more rules and policies in place.\""
+    },
+    {
+        "title": "It adapts to our business rules, so we don't have to change them.",
+        "name": "reviewer1345677",
+        "pros": "\"The solution has strong financial models and a strong database. \"",
+        "cons": "\"The system has bugs, is not user friendly, and requires too much customization. \""
+    },
+    {
+        "title": "Strong financial modules but dealing with data is very old fashioned",
+        "name": "F.A.",
+        "pros": "\"You can group them into the BIs, which is business intelligence. You get your own key performance indicators and build your own reports or you could have your own screens, and it changes in real time.\"",
+        "cons": "\"From the business processes, there are areas where you could streamline new processes.\""
+    },
+    {
+        "title": "Manages all your HR requirements from hiring, onboarding, and managing your payrolls",
+        "name": "MalikNawaz",
+        "pros": "\"Financial and asset management features are valuable.\"",
+        "cons": "\"The initial setup is complex.\""
+    },
+    {
+        "title": "A stable solution with excellent finance and asset management features",
+        "name": "Ikh-Erdene Namsrai",
+        "pros": "\"It's a tightly integrated solution. \"",
+        "cons": "\"Performance issues and handling of financial data could be improved. \""
+    },
+    {
+        "title": "Comprehensive procurement management with room for performance improvement",
+        "name": "BALA Murugan S",
+        "pros": "\"It is a very stable solution.\"",
+        "cons": "\"In Oracle E-Business Suite, there should be a proper document flow for each transaction.\""
+    },
+    {
+        "title": "Offers good reporting view but needs to improve the document flow",
+        "name": "reviewer2339271",
+        "pros": "\"Regarding the valuable features, the automation is inherent in all systems, including Oracle E-Business Suite. It helps in various business processes, depending on the company's behavior and requests.\"",
+        "cons": "\"In SAP, when customization or work is done in an instance, it can be automatically copied to the production instance. Such automation would be a very good future addition to Oracle.\""
+    },
+    {
+        "title": "Enables streamlined financial processes with automation in business systems",
+        "name": "ElsayedAhmed",
+        "pros": "\"It was very easy to integrate the product into our existing infrastructure.\"",
+        "cons": "\"The users feel that the product is not user-friendly.\""
+    },
+    {
+        "title": "Easy to integrate into the existing infrastructure and enables users to develop custom reports easily",
+        "name": "MohamedSalah14",
+        "pros": "\"EBS has lots of application families and lots of features. It is modular in deployment and flexible enough to let the customer increase the built-in capabilities and enable new applications when needed. These are very important things at hand in case there will be a need to expand the product capabilities and/or implement new projects.\"",
+        "cons": "\"Administration takes some effort. Administrating the technology stack is not so complex but application aware database administration and following the new methodologies like online patching can be a little complex and time consuming. Oracle should ease the administrators jobs and do some innovation on this administration area as well. Oracle Autonomous Database is Oracle's leading technology these days. Using a similar approach, application stack may become a little more self-managing.\""
+    },
+    {
+        "title": "Highly scalable: Supports scale-out architecture",
+        "name": "ErmanArslan, Oracle ACE",
+        "pros": "\"The most valuable features of Oracle EBS are its ease of use, integration capabilities, and the General Ledger reporting, including the FSG reporting.\"",
+        "cons": "\"Additional improvements could include better healthcare management functionalities, such as specialized modules for OPD and IPD for patients.\""
+    },
+    {
+        "title": "Streamlined finance operations with integration power but needs enhanced healthcare modules",
+        "name": "SalmanAhmad",
+        "pros": "\"Oracle's technical support is better than others.\"",
+        "cons": "\"There are always some bugs and missing patches.\""
+    },
+    {
+        "title": "Valuable integration APIs but lacks process flexibility",
+        "name": "VINICIUS STRACK",
+        "pros": "\"When correctly configured, this is a very stable solution. We have customers running their process automation manufacturing based off of this solution.\"",
+        "cons": "\"One issue with the product is because it build on a lot of older technologies, there is a substantial technical debt in the system.\""
+    },
+    {
+        "title": "Supports various deployment configurations  and stable solution with efficient migration",
+        "name": "SyedAbid Hussain",
+        "pros": "\"Financials, which are essential to all ERPs, and manufacturing and sales models are among the most valuable features. The specific features implemented depend on the company's needs.\n\n\"",
+        "cons": "\"Oracle E-Business Suite is hard and takes six months to one year to implement.\n\n\""
+    },
+    {
+        "title": "This software scales very well across various implementations.With the new version Oracle has added Enhanced online patching capabilities to reduce downtime and made the product compatible with19C.",
+        "name": "Robin Saikat Chatterjee",
+        "pros": "\"Oracle E-Business Suite has over 20 different modules to choose from, it is comprehensive. Additionally, the integration is very good.\"",
+        "cons": "\"There are some enhancements in the process itself that is needed in the application. In the cloud version, they covered some of these areas and requirements but the on-premise version has to catch up.\""
+    },
+    {
+        "title": "Its integration with Oracle Database is valuable. The UI needs improvement. They need to get rid of Java.",
+        "name": "it_user521856",
+        "pros": "\"As we have been using this for the past nine years we have had the opportunity to explore the product. Really everything has worked well and all the modules are very good.\"",
+        "cons": "\"Oracle is not keeping up on development of the on-premises version of this product as they are concentrating on cloud solutions.\""
+    },
+    {
+        "title": "Has financial, sales and manufacturing modules",
+        "name": "Jose Alfredo Garcia",
+        "pros": "\"I think one of the best use cases is centralizing supplier and customer data into our finance system. We identified there were so many duplicate suppliers and customers and so a lot of time was spent reporting.\"",
+        "cons": "\"The way things are going, Oracle is not putting much effort into their master data management. They need to look into machine data and then the integrated data domain. \""
+    },
+    {
+        "title": "Professional support agents, plenty of modules, and good integration",
+        "name": "Mohammed Ghonaim",
+        "pros": "\"Really scalable business application suite with good technical support and straightforward patching.\"",
+        "cons": "\"The on-premises version of this solution can be difficult to expand, compared to its cloud version.\n\nThe on-premises version is also more limited, versus the cloud version that has a lot of improvements.\n\nMaintaining this solution is also too costly.\""
+    },
+    {
+        "title": "A powerful suite of business tools that help with many ongoing processes",
+        "name": "Omair Bokhari",
+        "pros": "\"There is essentially one solution for every industry within Oracle \u2014 you won't require a third-party solution. \"",
+        "cons": "\"Oracle E-Business Suite uses an old technology (Forms), which is Java-based.\""
+    },
+    {
+        "title": "Enables us to identify many time-wasting duplicates but the master data management needs improvement",
+        "name": "reviewer1301331",
+        "pros": "\"I like the automation and integration features of Oracle E-Business Suite.\"",
+        "cons": "\"A downside of Oracle E-Business Suite is its interface because it's less user-friendly than the latest cloud solutions.\n\nAs an organization, Oracle now has more interest in cloud applications, so nowadays, it doesn't focus much on Oracle E-Business Suite, an on-premises solution, so this is another downside.\""
+    },
+    {
+        "title": "Scalable business application suite with straightforward patching and good technical support",
+        "name": "Kopano  Ramaphoi",
+        "pros": "\"What we like about Oracle E-Business Suite is that we didn't find any issues with it. In the Indian market, the subscription solutions aren't that suitable, even in terms of the complexity of the regulations, taxes, etc., so that's why we had to go for an on-premise solution that's hosted on the cloud, and we're happy with Oracle E-Business Suite.\n\nWe also like that Oracle E-Business Suite is quite flexible, and we've also built some bolt-ons and they're working fine.\"",
+        "cons": "\"Oracle E-Business Suite is a bit outdated because it's been developed more than ten years ago, and this is an area for improvement.\n\nMy team is still getting used to the solution, so there could still be some features that have not been enabled or features my team isn't aware of yet.\n\nThere have been issues with the Treasury module of Oracle E-Business Suite, so this is another area for improvement. My company hasn't decided yet on whether to implement the Treasury module or just go with another solution.\n\nAnother room for improvement in Oracle E-Business Suite is the design, as it needs to be optimized based on usage patterns.\n\nWhat I'd like added in the next release of Oracle E-Business Suite is the time attribute. The solution still has dashboards being rolled out, so the time attribute could already be there or is still in the process of implementation.\n\nI also didn't find much use for the Projects module based on my company's requirements.\n\nThe integration of Oracle E-Business Suite with the rest of the Oracle tools isn't very tight as well, but it could be because of customizations here in India, where the integrations work seamlessly everywhere, except in India. You'll find gaps because of customizations in India which are very, very irritating. For example, if a procurement is moving in the system then all the data has to move from one module to the other, but in the Oracle E-Business Suite Procurement module, you'll notice breaks or gaps that require you to manually transfer that data, so I'd like this improved in the next release of the solution.\""
+    },
+    {
+        "title": "Highly flexible but lacks some balance between the cloud and on-premise versions",
+        "name": "reviewer1565889",
+        "pros": "\"The most valuable features of the Oracle E-Business Suite are best practices, built-in processes, and easy configuration. Plenty of system functionality and customization. \"",
+        "cons": "\"Oracle has improved a lot because Oracle E-Business Suite is quite outdated.   Oracle built the Oracle Fusion platform and it has many improved processes. We registered a few enhancements requests, but it's a very long bureaucratic process with Oracle. It doesn't make any sense to communicate with Oracle about what changes should be made to the system.\""
+    },
+    {
+        "title": "Highly scalable, stable, and has automation and integration features",
+        "name": "Omair Bokhari",
+        "pros": "\"It is quite stable.\"",
+        "cons": "\"A lot more automation can be brought into E-Business Suite.\""
+    },
+    {
+        "title": "Flexible and has competitive licensing costs, but its design needs to be optimized based on usage patterns and the response time from the support team could be faster",
+        "name": "reviewer1956684",
+        "pros": "\"The technical support for the solution was very good.\"",
+        "cons": "\"The integration features of the tool on on-premises weren't that great, making it an area where improvements are required.\""
+    },
+    {
+        "title": "Simple configuration, plenty of features, but support could be better",
+        "name": "RomanBogdashkin",
+        "pros": "\"The new Subledger Accounting feature is very strong.\"",
+        "cons": "\"The implementation can take quite a bit of time.\""
+    },
+    {
+        "title": "Adaptable to the finance industry, stable product but more automation could be introduced",
+        "name": "MaggieVan Wyk",
+        "pros": "\"The technical ability to run runtime APIs is great. \"",
+        "cons": "\"Sometimes I have issues with the performance tuning.\""
+    },
+    {
+        "title": "Useful to deal in areas like supply chain management and WMS",
+        "name": "Debharshi Bhattacharya",
+        "pros": "\"Great finance modules and customization. \"",
+        "cons": "\"Not user friendly. \""
+    },
+    {
+        "title": "Very easy to customize and everything is integrated into one solution from one provider",
+        "name": "Adil Fouari",
+        "pros": "\"The order management is excellent.\"",
+        "cons": "\"I would say the integration needs improvement. Oracle needs to work on the integration layer to make the solution much more robust and modern.\""
+    },
+    {
+        "title": "Good alerts and workflows with very helpful technical support",
+        "name": "reviewer957552",
+        "pros": "\"Oracle E-Business Suite is flexible. Its rich functionality can work in any client environment or business.\n\n\"",
+        "cons": "\"It is scalable. \""
+    },
+    {
+        "title": "Great finance modules and flexibility; not very user friendly",
+        "name": "GIRIRAJ INJA",
+        "pros": "\"We don't like Oracle EBS because it is very old. Nowadays, all the systems are on the cloud and web-based. With Oracle EBS, you need a huge setup before installing it. You need a lot of servers. There are a lot of problems and bugs in the system. We have to move from Oracle EBS to another system. In terms of improvements, it can have better training for end users and better support.\"",
+        "cons": "\"It handles all my financial functions, including the entire process of financial transactions\""
+    },
+    {
+        "title": "Great employee self-service and order management but needs better integrations",
+        "name": "reviewer1265133",
+        "pros": "\"It's more expensive than other options due to licensing costs and core-based hardware.\"",
+        "cons": "\"It was easy to set up the product.\""
+    },
+    {
+        "title": "SLA gives me flexibility to do things that I need without involving development.",
+        "name": "it_user436098",
+        "pros": "\"The operations could be better, specifically for manufacturing processes. \"",
+        "cons": "\"The procure-to-pay is core to our business and relevant to us.\""
+    },
+    {
+        "title": "It's flexible and works well with multiple use cases and environments",
+        "name": "SandeepGoyal",
+        "pros": "\"We would like to see some automation in this solution.\"",
+        "cons": "\"Oracle E-Business Suite's most valuable feature is the information that it provides. For example, it's good to know the AR due date and the receipt of the products that you have sold. It is a good solution overall for enterprise management.\""
+    },
+    {
+        "title": "Scalable but requires a huge setup for installation",
+        "name": "Mustapha Eldiraoui",
+        "pros": "\"Oracle E-Business Suite could improve the tables. When we remove some of them sometimes they cloud the modules into one. It becomes a little difficult to segregate.\"",
+        "cons": "\"The most valuable feature is the integration between accounts receivable, accounts payable, general ledger, and budgeting.\""
+    },
+    {
+        "title": "The benefits of APEX and EBS is that APEX actually lives outside of EBS which means that when upgrading EBS, you don't have to do as much work to get it done.",
+        "name": "it_user418746",
+        "pros": "\"It is difficult to get answers from technical support right away.\"",
+        "cons": "\"The on-premise is very similar to the cloud version.\""
+    },
+    {
+        "title": "I can make business decision adaptations with it without changing the underlying code.",
+        "name": "it_user436008",
+        "pros": "\"It's very dependent on integration with other products,.\"",
+        "cons": "\"If I want to manage many parts of my organization, such as finances, proceedings, or supply chain I would typically need to buy many different solutions. However, with Oracle E-Business Suite, it is all that is needed. This ERP system has many modules.\""
+    },
+    {
+        "title": "Manage and handles all our financial operations and has good support",
+        "name": "Mahammad Shafi Shaikh",
+        "pros": "\"The deployment of the Oracle E-Business Suite was simple. I have done many deployments and I find it simple, but for others, it might not be easy.\"",
+        "cons": "\"The solution is good for small businesses.\""
+    },
+    {
+        "title": "Easy to set up and good for financial reporting but cannot do production",
+        "name": "Neeraj Thakur",
+        "pros": "\"Earlier when our organization was small they chose Oracle because in the telecommunication industry everybody was using Oracle. Our company has grown to a size where our particularly billing phase has created some challenges and now we are looking at alternate solutions. There is not a billing engine or module that you can buy from Oracle that can be added to this EBS solution to fix our problem. They should add a billing module or engine to the solution.\"",
+        "cons": "\"ERP is a valuable feature of this product. \""
+    },
+    {
+        "title": "A beneficial solution for finance and payroll with a great procure-to-pay feature",
+        "name": "Syed-Hassan",
+        "pros": "\"User interface is outdated and not user friendly. \"",
+        "cons": "\"Everyone in the company is quite used to the Oracle functionality. \""
+    },
+    {
+        "title": "Beneficial enterprise management, provides useful information, and high availability",
+        "name": "Swati-Singh",
+        "pros": "\"I would like an end-to-end in terms of processes. There are different modules, however, there's not that end-to-end that we are looking for in terms of process automation. \"",
+        "cons": "\"The most valuable feature of Oracle E-Business Suite is the customization.\""
+    },
+    {
+        "title": "Scalable, customizable, and the integration between accounts is good",
+        "name": "Adil Fouari",
+        "pros": "\"The document that supports the Oracle E-Business Suite regarding the installation and upgrading is long compared to other products and needs to be enhanced.\"",
+        "cons": "\"The implementation of Oracle E-Business Suite is easy.\""
+    },
+    {
+        "title": "It's part of the back end of finance and they're able to do their month-end closures with much greater ease. We've been having issues gegting BI integrated into the transactional system.",
+        "name": "it_user23346",
+        "pros": "\"They should have a nicer way to handle very high volumes of data because we deal with really high volumes, and sometimes, we end up with performance issues.\"",
+        "cons": "\"The on-premises solution has maturity in features but also flex fields.\""
+    },
+    {
+        "title": "An unstable suite solution for maintenance and procurement",
+        "name": "reviewer2316951",
+        "pros": "\"Improvements could be made in mobility for mobile applications or tablets.\"",
+        "cons": "\"The interface is easy to use.\n\n\""
+    },
+    {
+        "title": "Robust, complete, and offer useful configuration capabilities",
+        "name": "Juan Anteo",
+        "pros": "\"The system alerts could be improved.\n\n\"",
+        "cons": "\"The most valuable features of Oracle E-Business Suite are all the 15 to 20 modules. We use them on a day-to-day basis.\""
+    },
+    {
+        "title": "Integrates well, highly scalable, and useful dashboards",
+        "name": "Mohamed Moustafa",
+        "pros": "\"I would rate the support for Oracle E-Business Suite a four out of five.\"",
+        "cons": "\"E-Business Suite's best features are BAT functionality, flexibility, configurability, and integration with Oracle Database.\""
+    },
+    {
+        "title": "Lacking billing module, expensive, but reliable",
+        "name": "Ravi_S",
+        "pros": "\"E-Business Suite's user experience and interface could be improved.\"",
+        "cons": "\"Very flexible in terms of configurations and it's capable of integrations.\""
+    },
+    {
+        "title": "Great customization and integration features, unfortunately feels somewhat outdated",
+        "name": "Mahdi Ajoudanian",
+        "pros": "\"Reporting is a big area for improvement. It needs to provide the ability to extract data from the suite. Oracle has also been making a great effort to make E-Business Suite more user-friendly but there are still areas where a focus on User Experience would help.\"",
+        "cons": "\"The system is reliable and the backbone of financial and other core systems in many organizations worldwide.\""
+    },
+    {
+        "title": "Easy to set up, simple to use, and offers good integration capabilities",
+        "name": "Michael Makanda",
+        "pros": "\"The EBS Design to some extent is still monolithic.\n\"",
+        "cons": "\"Technical support is good.\""
+    },
+    {
+        "title": "An ERP solution that can handle human resources, supply chain, business intelligence, and payrolls",
+        "name": "reviewer2316501",
+        "pros": "\"Pricing is the biggest disadvantage of Oracle.\"",
+        "cons": "\"Their great technical support is one of the most valuable features. \""
+    },
+    {
+        "title": "Is easy to implement and is stable and scalable",
+        "name": "AjitSingh",
+        "pros": "\"It should be made a little bit more user friendly. When I complete my implementation and hand it over to the clients or the person who will operate it on a day-to-day basis, they find it a little bit difficult because they are not from a highly qualified IT background. I want Oracle to make it a little bit more user friendly.\"",
+        "cons": "\"The financial module has excellent features that many find valuable, while the HCM module is also highly regarded. \""
+    },
+    {
+        "title": "Ability to fully customize tables, third-party integrations, and flex fields",
+        "name": "Ahmed Ramadan",
+        "pros": "\"Improving the reporting and user interface of Oracle ERP would be beneficial and is something that can be considered for future updates.\"",
+        "cons": "\"Flexible to set up an organization with multiple locations.\""
+    },
+    {
+        "title": "It's an easy-to-use  solution, but the system alerts could be better.",
+        "name": "Kevitha Ramanand",
+        "pros": "\"Technical support is focused on-cloud versus on-premise customers.\"",
+        "cons": "\"Finance, HRMS, and payroll are all great, and Oracle EBS is fantastic.\""
+    },
+    {
+        "title": "Beneficial modules, continual updates, and scalable",
+        "name": "reviewer1273089",
+        "pros": "\"They should include database functionality.\"",
+        "cons": "\"E-Business Suite's best features are the standard process, the table dictionary, and the ability to work with the SQL language to correlate data.\""
+    },
+    {
+        "title": "With one database and one instance, we can operate in more than six countries across the world with a small IT staff.",
+        "name": "it_user522249",
+        "pros": "\"The initial setup was a little complex.\"",
+        "cons": "\"The solution is perfect for big industry and high-scale e-business transactions. \""
+    },
+    {
+        "title": "We were able to switch from paper-based purchasing to an automated, centralized, and integrated solution.",
+        "name": "it_user221766",
+        "pros": "\"It would be great to see Oracle E-Business Suite become less dependent on the SAO solution, which is an integration solution for Oracle platforms. \"",
+        "cons": "\"Oracle E-Business Suite is easy to use, and we have enough resources out in the market.\""
+    },
+    {
+        "title": "Although it handles standard functionalities well, we were still able to customize and enhance it easily.",
+        "name": "it_user277482",
+        "pros": "\"The implementation took a long time but it was for many reasons. However, Oracle made sure that the solution and systems were up and running. \"",
+        "cons": "\"It is a very consistent product on IBM. There is also a lot of knowledge data.\n\n\""
+    },
+    {
+        "title": "Perfect data management",
+        "name": "Oleg Krivolapov",
+        "pros": "\"The solution needs to be updated with modern technology as it currently runs on the Java platform, JWE, which is obsolete and requires you to need an API supported browser.\n\n\"",
+        "cons": "\"The customer gets a better cost calculation and an integrated system between departments.\""
+    },
+    {
+        "title": "Financials and Project Management suites give us flexibility in configurations",
+        "name": "Gustavo Gonzalez",
+        "pros": "\"On-site cloud support is slow and unresponsive. \"",
+        "cons": "\"It's quite secure and fast, and we get an end-to-end solution.\""
+    },
+    {
+        "title": "It has improved our business processes",
+        "name": "it_user515592",
+        "pros": "\"They started on the mobile app and tablets, but still I see there are no short-forms used in EBS.\"",
+        "cons": "\"The most valuable feature is its flexibility.\""
+    },
+    {
+        "title": "The modules are tightly integrated. We have Finance, HR, Supply Chain, and others.",
+        "name": "it_user12819",
+        "pros": "\"The reporting needs to be improved.\"",
+        "cons": "\"The complete product suite is good. The financials are good, it is the best product I've been working with is Oracle Financial. Supply chain manufacturing is very comprehensive and the connectivity, between all the modules, is seamless. They are all communicated well with one another.\""
+    },
+    {
+        "title": "Good step-by-step documentation, reliable, and scalable, but support and licensing fees are expensive",
+        "name": "TanveerAmir",
+        "pros": "\"In the future, Oracle E-Business Suite could improve by having a better UI. Competitors are providing much better interfaces.\n\"",
+        "cons": "\"It makes financial operations easier to perform.\""
+    },
+    {
+        "title": "Good performance and great technical support",
+        "name": "Pradyut Pal",
+        "pros": "\"It requires training before you can easily use this product, so it should be easier to use.\"",
+        "cons": "\"It's highly customizable.\""
+    },
+    {
+        "title": "When we buy Oracle's different products, we look to see how they integrate with different modules. With E-Business Suite, they all talk to each other.",
+        "name": "it_user420069",
+        "pros": "\"Some of my clients report that the overall ease of use could be simplified.\"",
+        "cons": "\"The most valuable features are straight-through processing because we need to make sure that we have a good end-to-end process.\""
+    },
+    {
+        "title": "Reasonably priced, helps improve workflow, and time efficiency",
+        "name": "reviewer2113668",
+        "pros": "\"It is still a little outdated as far as what we consider a twenty-first century software. You're still using Oracle forms, that sort of thing. \"",
+        "cons": "\"Oracle E-Business Suite improves forecast accuracy, reduces costs, and increases manufacturing capacity.\""
+    },
+    {
+        "title": "Easy plug and play system to setup",
+        "name": "BALA Murugan S",
+        "pros": "\"Oracle E-Business Suite's stability could be improved as they have a lot of bugs that need to be fixed.\"",
+        "cons": "\"This is a world-class application that includes a lot of business processes from other ERPs that Oracle has acquired.\""
+    },
+    {
+        "title": "Useful features, reasonably price with good support, but the interface and sales service need improvement",
+        "name": "Sajid Khan",
+        "pros": "\"Areas for improvement would be that sometimes it's a bit rigid with customization and doesn't always facilitate region-specific requirements.\"",
+        "cons": "\"The integration of the various modules is definitely the most valuable feature for us. Our clients being business-minded, which involves customers and suppliers.\n\n\""
+    },
+    {
+        "title": "Includes standard process and table dictionary but price could be lower",
+        "name": "BINH NGUYEN THAI",
+        "pros": "\"The issue of frequently applying patches and updates to fix bugs. Oracle should improve upon this issue, especially since it happens too frequently.\"",
+        "cons": "\"Rapidly implement jobs, positions, grades, and steps within setup of organizational structure.\n\""
+    },
+    {
+        "title": "Provides business continuity for big enterprise clients",
+        "name": "Juan Anteo",
+        "pros": "\"More flexibility in configuration related to the Payroll module, in order to easily implement the local legislation.\"",
+        "cons": "\"I like Oracle ERP for streamlining the entire process from PRTL and invoice payments. It also has the decision and internet sale order, and my customers can correct the internet decision. It automatically converts to the internet order, and they don't need to create the entry object. They don't need to make a secondary ledger in the parent company and subsidiary. That's very helpful for internet decisions. If they get an order at the parent company, it automatically creates the sales system in the subsidiary.\""
+    },
+    {
+        "title": "Effective financial planning, good support, but lengthy implementation",
+        "name": "SAJI NAIR",
+        "pros": "\"The user interface could be better. It's not good because they made their interface all in one, and my customers don't want to use it. I have to customize the interface and personalize it to hide some fields on the screen. It has lots of information on the screen, and the user can't easily navigate it. It's very difficult to use.\n\nI think that Oracle should have something like best practices. They need to provide some patches to simplify the interface based on the industry niche. Because now we see everything on the same screen, but the users don't need all that information. It's complicated to use for end-users, and we have to spend more time training them.\n\nIn the next release, I think they should implement most of the features in the mobile app. It should be better. Oracle didn't update their mobile application for a very long time. Connecting the mobile application is complicated.\"",
+        "cons": "\"I like that one system covers everything. \""
+    },
+    {
+        "title": "Oracle has now made taxes a separate module for E-Business Suite, and with it, the tax team knows exactly what they have access to and what issues they need to fix.",
+        "name": "it_user436014",
+        "pros": "\"They don't have built-in bank integrations, which would be very helpful.\"",
+        "cons": "\"The most valuable features are the financial-related capabilities. \""
+    },
+    {
+        "title": "Setup was straightforward because we wanted to use Oracle out-of-the-box. There were a few extensions, but we wanted to adopt the processes rather than change the system to support our processes.",
+        "name": "it_user436068",
+        "pros": "\"The simplicity of the user experience needs to be improved tremendously.\n\"",
+        "cons": "\"It provides a well-centered database that is feature rich.\""
+    },
+    {
+        "title": "Highly knowledgeable and functional suite running on out-of-date technology",
+        "name": "Isanka Attanayake",
+        "pros": "\"The UI interface is not great.\"",
+        "cons": "\"It is a solution for GFMIS (Governmental Fiscal Management Information Systems).\""
+    },
+    {
+        "title": "The customer gets a better cost calculation and an integrated system between departments",
+        "name": "Dadan  Rahdian",
+        "pros": "\"The user interface is not completely a web interface, it uses a lot of traffic which costs too much for a large number of users scattered throughout the country as they connect from their terminals to do their tasks.\"",
+        "cons": "\"The supplier invoice payment process is very easy and is integrated from the requisition to the payment (and to creating the asset).\""
+    },
+    {
+        "title": "\u200bWhenever you are growing, you get new products on the database server level, application server level and software. It definitely grows as your needs increase.",
+        "name": "it_user516675",
+        "pros": "\"Standard reporting needs to be changed. Many of the standard reports look the same as they did in version 10.7, 20 years ago.\"",
+        "cons": "\"It can be an essential solution for those who can not just push to the cloud because they have critical data restrictions.\""
+    },
+    {
+        "title": "It allows for internationalization with support for multiple languages and locales, although it has just a few data spreadsheet loaders and no option to download, modify, and upload to data screens.",
+        "name": "it_user317880",
+        "pros": "\"If you get away from the financials core of the product, it is not so good at handling peripherals.\"",
+        "cons": "\"I have found the solution to have a good interface, security, and is user-friendly.\""
+    }
+]
